@@ -3,8 +3,6 @@ name: Combined Workflow
 on:
   schedule:
     - cron: '0 */6 * * *'  # Schedule to run every 6 hours
-  push:
-    branches: ["main"]  # Trigger on pushes to the default branch
   workflow_dispatch:  # Allows manual triggering
 
 permissions:
@@ -59,7 +57,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v2
         with:
           path: './files'
       - name: Deploy to GitHub Pages
