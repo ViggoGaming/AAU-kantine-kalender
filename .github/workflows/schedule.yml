@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run the script
-        run: python generate_ics.py
+        run: python main.py
 
       - name: Commit and push the generated .ics
         run: |
