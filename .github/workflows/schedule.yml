@@ -13,7 +13,7 @@ permissions:
   id-token: write
 
 jobs:
-  run-script:
+  generate-calendar:
     runs-on: ubuntu-latest
     
     steps:
@@ -46,7 +46,8 @@ jobs:
           git commit -am "Add generated .ics file" || echo "No changes to commit"
           git push
 
-  deploy:
+  deploy-calendar:
+    needs: generate-calendar  # Specify the dependency on generate-calendar job
     environment:
       name: github-pages
       url: https://aau-kantine-kalender.viggogaming.github.io
