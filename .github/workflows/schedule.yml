@@ -10,6 +10,7 @@ on:
 permissions:
   contents: write
   pages: write
+  id-token: write
 
 jobs:
   run-script:
@@ -31,6 +32,7 @@ jobs:
 
       - name: Create working directory
         run: |
+          rm -rf ./files
           mkdir ./files
 
       - name: Run the script
