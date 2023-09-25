@@ -1,12 +1,15 @@
-name: Run Every 6 hours
+name: Combined Workflow
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Schedule to run every 6 hours
+  push:
+    branches: ["main"]  # Trigger on pushes to the default branch
+  workflow_dispatch:  # Allows manual triggering
 
 permissions:
   contents: write
+  pages: write
 
 jobs:
   run-script:
@@ -40,3 +43,22 @@ jobs:
           git add ./files/kantine-kalender.ics
           git commit -am "Add generated .ics file" || echo "No changes to commit"
           git push
+
+  deploy:
+    environment:
+      name: github-pages
+      url: aau-kantine-kalender.viggogaming.github.io
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+          with:
+            path: './files'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
