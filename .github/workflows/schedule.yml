@@ -26,6 +26,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Create working directory
+        run: |
+          mkdir ./files
+
       - name: Run the script
         run: python main.py
 
@@ -33,8 +37,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add kantine-kalender.ics
+          git add ./files/kantine-kalender.ics
           git commit -am "Add generated .ics file" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
