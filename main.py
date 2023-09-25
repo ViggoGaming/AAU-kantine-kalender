@@ -100,7 +100,7 @@ def scrape_and_save_menu():
         current_date += timedelta(days=1)
 
     # Save the calendar to an ICS file for the entire month
-    filename = "kantine-kalender.ics"
+    filename = "./files/kantine-kalender.ics"
     with open(filename, 'w') as ics_file:
         ics_content = str(cal)
         ics_content = ics_content.replace('END:VCALENDAR', 'X-WR-CALNAME:Jespers Torvekøkken kantine\nEND:VCALENDAR')
