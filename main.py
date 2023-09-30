@@ -19,10 +19,14 @@ def fetch_cisession_cookie():
 
 
 # Calculate the start date as September 1, 2023
-start_date = datetime(2023, 9, 1)
+# start_date = datetime(2023, 9, 1)
+# Determine the start date as the date 14 days prior to today
+start_date = datetime.today() - timedelta(days=14)
 
 # Calculate the end date as September 30, 2023
-end_date = datetime(2023, 9, 30)
+#end_date = datetime(2023, 9, 30)
+# Determine the end date as the date 14 days after today
+end_date = datetime.today() + timedelta(days=14)
 
 # Define the custom headers
 headers = {}
