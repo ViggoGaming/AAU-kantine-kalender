@@ -16,25 +16,15 @@ def fetch_cisession_cookie():
     
     return cisession_cookie
 
-
-
-# Calculate the start date as September 1, 2023
-# start_date = datetime(2023, 9, 1)
 # Determine the start date as the date 14 days prior to today
 start_date = datetime.today() - timedelta(days=14)
 
-# Calculate the end date as September 30, 2023
-#end_date = datetime(2023, 9, 30)
 # Determine the end date as the date 14 days after today
 end_date = datetime.today() + timedelta(days=14)
 
-# Define the custom headers
-headers = {}
-
 # Fetch the CISESSION cookie and update the headers
 cisession_cookie_value = fetch_cisession_cookie()
-headers['Cookie'] = f'cookiesDirective=1; CISESSION={cisession_cookie_value}'
-
+headers = {'Cookie': f'cookiesDirective=1; CISESSION={cisession_cookie_value}'}
 print(headers)
 
 # Fixed time for the menu events (11:00-12:00 Danish time)
@@ -43,74 +33,65 @@ end_time = datetime.strptime('10:00 AM', '%I:%M %p')
 
 # Create a function to scrape and save the daily menu as a single event
 def scrape_and_save_menu():
-    # Create a new iCalendar (ICS) calendar
     cal = Calendar()
-
     cal.name = "Jespers Torvekøkken"
 
-    # Iterate through all dates in September 2023
     current_date = start_date
     while current_date <= end_date:
-        # Construct the URL for the specified date
         date_str = current_date.strftime('%d-%m-%Y')
         url_template = f'https://aau.torvekoekken.dk/templates/menuliste/?date={date_str}&id=487'
-        # Send an HTTP GET request to the URL with custom headers
+        
         response = requests.get(url_template, headers=headers)
         print(response.text)
 
-        # Check if the request was successful (status code 200)
         if response.status_code == 200:
-            # Parse the HTML content of the page using BeautifulSoup
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            # Create a list to store menu items for the day
-            menu_items_for_day = []
+            if "Menu endnu ikke planlagt" not in soup.text:
 
-            # Iterate through the menu items
-            menu_items = soup.find_all('div', class_='menu_ret_ny')
-            for menu_item in menu_items:
-                # Extract the menu item name
-                menu_item_name = menu_item.text.strip()
-                
-                # Add the menu item to the list for the day
-                menu_items_for_day.append(menu_item_name)
+                menu_sections = {}
+                current_section = None
+                for child in soup.find_all(['div', 'span']):  # Assuming parent doesn't have a unique identifier, iterating through all divs
+                    if child.name == 'div' and 'menu_header_ny' in child['class']:
+                        current_section = child.text.strip() + ':'
+                        menu_sections[current_section] = []
+                    elif current_section and child.name == 'div' and 'menu_ret_ny' in child['class']:
+                        menu_sections[current_section].append(child.text.strip())
 
-            # If there are menu items for the day, create an event
-            if menu_items_for_day:
-                # Create an ICS event
-                e = Event()
+                event_description = []
+                for section, items in menu_sections.items():
+                    event_description.append(section)
+                    for index, item in enumerate(items, 1):
+                        event_description.append(f" {item}")
 
-                # Set the event title as "Dagens menu"
-                e.name = "Dagens menu🍽️"
-
-                # Combine menu items into the event description with prefixes
-                event_description = "\n".join([f"Ret{menu_items_for_day.index(item) + 1}: {item}" for item in menu_items_for_day])
-                e.description = event_description
-                
+                event_description = "\n".join(event_description)
                 additional_description = "Udviklet af Victor Buch, (https://victorbuch.dk)"
-                e.description += f"\n{additional_description}"
+                event_description += f"\n\n{additional_description}"
 
-                # Set the event date to the specified date and fixed time
-                event_start = datetime.combine(current_date, start_time.time())
-                event_end = datetime.combine(current_date, end_time.time())
-                e.begin = event_start
-                e.end = event_end
+                if event_description:  # Check if there's a description to add
+                    e = Event()
+                    e.name = "Dagens menu🍽️"
+                    e.description = event_description
 
-                # Add the event to the calendar
-                cal.events.add(e)
-                print("Create event for", current_date.strftime('%d-%m-%Y'))
+                    event_start = datetime.combine(current_date, start_time.time())
+                    event_end = datetime.combine(current_date, end_time.time())
+                    e.begin = event_start
+                    e.end = event_end
 
-        # Move to the next date
+                    cal.events.add(e)
+                    print("Created event for", current_date.strftime('%d-%m-%Y'))
+
+            else:
+                print("No menu available for", current_date.strftime('%d-%m-%Y'))
+
         current_date += timedelta(days=1)
 
-    # Save the calendar to an ICS file for the entire month
     filename = "./files/kantine-kalender.ics"
     with open(filename, 'w') as ics_file:
         ics_content = str(cal)
         ics_content = ics_content.replace('END:VCALENDAR', 'X-WR-CALNAME:Jespers Torvekøkken kantine\nEND:VCALENDAR')
         ics_file.write(ics_content)
 
-    print(f"ICS file generated for the entire month of September 2023 as {filename}.")
+    print(f"ICS file generated from {start_date.strftime('%d-%m-%Y')} to {end_date.strftime('%d-%m-%Y')} as {filename}.")
 
-# Call the function to generate the single menu event for the entire month
 scrape_and_save_menu()
