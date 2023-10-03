@@ -48,7 +48,7 @@ jobs:
     needs: generate-calendar  # Specify the dependency on generate-calendar job
     environment:
       name: github-pages
-      #url: https://kbhkantine.victorbuch.dk
+      url: kbhkantine.victorbuch.dk
     runs-on: ubuntu-latest
 
     steps:
