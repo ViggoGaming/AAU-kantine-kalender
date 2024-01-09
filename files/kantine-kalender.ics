@@ -2,67 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Cassoulet med bacon\, pølser\, bønner og Ingrid Marie ærter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240110T100000Z
-DTSTART:20240110T090000Z
-SUMMARY:Dagens menu🍽️
-UID:46981b17-f352-43ba-b4f7-53859de0d428@4698.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Falafel med blomkål og kikærter\, tatziki og bønnesalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240105T100000Z
-DTSTART:20240105T090000Z
-SUMMARY:Dagens menu🍽️
-UID:fee52361-a62a-44db-bf8c-da621afbe3ac@fee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Gnocchi napoli\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240111T100000Z
-DTSTART:20240111T090000Z
-SUMMARY:Dagens menu🍽️
-UID:70a9765d-2336-4566-af3b-70380ece2079@70a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Pasta med græskar\, salvie og kapers\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240109T100000Z
-DTSTART:20240109T090000Z
-SUMMARY:Dagens menu🍽️
-UID:403030c7-eac2-43de-8c8f-9ee670188db5@4030.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Salater:\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Pastasalat\n Svampe\, gulerod\, edamame og frisé\n Pastinak med syltet tranebær\nVarme retter:\n Mexicansk chiligryde med ris og bønner\n Sweet potato\, græskar og feta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240103T100000Z
 DTSTART:20240103T090000Z
 SUMMARY:Dagens menu🍽️
-UID:6500408a-2e5c-4612-8337-ce10261e3a62@6500.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Spaghetti carbonara vendt med æg\, fløde og parmesan toppet med ristet bacon og persille\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240104T100000Z
-DTSTART:20240104T090000Z
-SUMMARY:Dagens menu🍽️
-UID:e7f81612-8d1b-416b-9279-5e5fd1460905@e7f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Forloren hare med skysauce\, kartofler samt ribs\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240102T100000Z
-DTSTART:20240102T090000Z
-SUMMARY:Dagens menu🍽️
-UID:c7021937-49df-49ac-81ad-b2635d3dcadc@c702.org
+UID:75ec6222-f480-4ee5-adcf-ba0a95c93996@75ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Stegte auberginer med perlecouscous\, persille\, soltørret tomat\n Basmatiris\n Thai kylling i kokos\, citrongræs og basilikum\nSalater:\n Spidskål med æbler og mangojuice\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Urtedressing\n Majs\n Bønnesalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240108T100000Z
 DTSTART:20240108T090000Z
 SUMMARY:Dagens menu🍽️
-UID:037895dd-c1c5-4564-862c-1a8a525692f5@0378.org
+UID:77230408-8d5c-4e41-bc45-53f5ff8296ba@7723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Forloren hare med skysauce\, kartofler samt ribs\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240102T100000Z
+DTSTART:20240102T090000Z
+SUMMARY:Dagens menu🍽️
+UID:3e440b75-9f5f-4a63-b8a8-f0531a7cd667@3e44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Falafel med blomkål og kikærter\, tatziki og bønnesalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240105T100000Z
+DTSTART:20240105T090000Z
+SUMMARY:Dagens menu🍽️
+UID:d1713292-d549-4ae2-bb51-1f17dd214685@d171.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Gnocchi napoli\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240111T100000Z
+DTSTART:20240111T090000Z
+SUMMARY:Dagens menu🍽️
+UID:417c6964-bc95-4ce5-be18-7bdea5c07058@417c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Pulled pork burger med grove fritter og dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240112T100000Z
 DTSTART:20240112T090000Z
 SUMMARY:Dagens menu🍽️
-UID:958b98b9-0ebe-42b4-a0c7-d11094aa7897@958b.org
+UID:7abf6c6b-18d5-46b0-b79c-6cf2562a0505@7abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Spaghetti carbonara vendt med æg\, fløde og parmesan toppet med ristet bacon og persille\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240104T100000Z
+DTSTART:20240104T090000Z
+SUMMARY:Dagens menu🍽️
+UID:9d691cfe-9932-4327-8209-76cf6180db5a@9d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Cassoulet med bacon\, pølser\, bønner og Ingrid Marie ærter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240110T100000Z
+DTSTART:20240110T090000Z
+SUMMARY:Dagens menu🍽️
+UID:f520bc6b-6e5f-48c4-9fc4-3ac23b65e86b@f520.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Pasta med græskar\, salvie og kapers\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240109T100000Z
+DTSTART:20240109T090000Z
+SUMMARY:Dagens menu🍽️
+UID:44aa9323-9668-42b9-89e4-79d0a4eaadec@44aa.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
