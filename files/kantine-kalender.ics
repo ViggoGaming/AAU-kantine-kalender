@@ -2,109 +2,109 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Pizza med svampe eller jordskokker\n Risotto lavet på kamut\, vendt med saltbagte grøntsager og gærflager\n Kikærter\, kokos\, karry\, lime\nSalater:\n Bønnesalat\n Pastasalat\n Kikærtesalat\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Oliven\n Majs\n Haricot vertes\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240130T100000Z
-DTSTART:20240130T090000Z
+DESCRIPTION:Varme retter:\n Tortillas med oksekød\, salsa og avocado dip\nStudentermåltid:\n Grillet græskar med hamp og quinoa\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240208T100000Z
+DTSTART:20240208T090000Z
 SUMMARY:Dagens menu🍽️
-UID:19a32f07-f5dd-4878-b0fc-4beb4d03bb29@19a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Kylling i karry med ris\nBuffeten:\n Vintergryde med bønner\, rodfrugter og perlebyg\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240214T100000Z
-DTSTART:20240214T090000Z
-SUMMARY:Dagens menu🍽️
-UID:74a2c445-d120-44a4-9db2-2dfe9c4438d4@74a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Græsk farsbrød af okse med bulgur og tzatziki\nSalater:\n Pastasalat\n Agurker\n Bønnesalat\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Pastinak og gulerod\, stegt\n Soya bønnesalat\nStudentermåltid:\n Dahl med blomkål\, brød og raita dressing\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240201T100000Z
-DTSTART:20240201T090000Z
-SUMMARY:Dagens menu🍽️
-UID:8a570f2e-943e-4af8-83dc-62f92a4d7510@8a57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Imam Bayildi\nStudentermåltid:\n Kikærte fladbrød - Squash\, bønnespirer og goma\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240213T100000Z
-DTSTART:20240213T090000Z
-SUMMARY:Dagens menu🍽️
-UID:5f6f8444-db84-44e4-a9d6-db60a282c9e4@5f6f.org
+UID:8ba1ff7a-ed08-4261-a277-1cb4258e5846@8ba1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Tandoori kyllingelår med tabouleh og dressing\nStudentermåltid:\n Knuste kartofler med creme fraiche\, porre\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240207T100000Z
 DTSTART:20240207T090000Z
 SUMMARY:Dagens menu🍽️
-UID:f98be7a7-20ec-4563-932b-399a9be1a393@f98b.org
+UID:fbfc9a56-4968-46d8-8f39-9276a9197dda@fbfc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Vegetarisk lasagne på linser og spinat\n Bagt selleri med gotlandslinser\nSalater:\n Haricot vertes\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Quinoasalat\n Bulgursalat\nStudentermåltid:\n Nudler\, tofu\, sesam og chili\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240206T100000Z
-DTSTART:20240206T090000Z
+DESCRIPTION:Varme retter:\n Kylling i karry med ris\nBuffeten:\n Vintergryde med bønner\, rodfrugter og perlebyg\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240214T100000Z
+DTSTART:20240214T090000Z
 SUMMARY:Dagens menu🍽️
-UID:128bc358-05ea-461d-819e-a85273c2735c@128b.org
+UID:2630f149-358d-4f22-8ef8-ba8fbe790670@2630.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Tortillas med oksekød\, salsa og avocado dip\nStudentermåltid:\n Grillet græskar med hamp og quinoa\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240208T100000Z
-DTSTART:20240208T090000Z
+DESCRIPTION:Varme retter:\n Græsk farsbrød af okse med bulgur og tzatziki\nSalater:\n Pastasalat\n Agurker\n Bønnesalat\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Pastinak og gulerod\, stegt\n Soya bønnesalat\nStudentermåltid:\n Dahl med blomkål\, brød og raita dressing\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240201T100000Z
+DTSTART:20240201T090000Z
 SUMMARY:Dagens menu🍽️
-UID:3e6e4620-ba49-43d0-8c60-205ba914c2ba@3e6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Kylling\, tomat\, peberfrugt\, aubergine spread\n Stegte ris\n Bagte rødbeder\nSalater:\n Agurker\n Ærter\n Rodfrugter med feta\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Majs\n Kartoffelsalat\n Sellerisalat\n Feta dressing\n Pastasalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240129T100000Z
-DTSTART:20240129T090000Z
-SUMMARY:Dagens menu🍽️
-UID:f6f66686-9083-4587-8b99-c1cc9c821e9f@f6f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Krebinetter med stuvet spidskål og saltbagte kartofler\nSalater:\n Haricot vertes\n Humus\n Oliven\n Bønnesalat\n Nudler med teriyaki\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Sorte kikærter og grønkål\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240209T100000Z
-DTSTART:20240209T090000Z
-SUMMARY:Dagens menu🍽️
-UID:a2518a80-225e-4dfd-be4c-d6a26bd8b9e6@a251.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Langtidsstegt nakkefilet\, grønne bønner\, løg og bacon. Stegte kartofler.\nSalater:\n Bønnesalat\n Humus\n Stegte pastinakker og gulerødder\n Bulgur med feta\n Pastasalat\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\nStudentermåltid:\n Aloo Gobi med ris\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240202T100000Z
-DTSTART:20240202T090000Z
-SUMMARY:Dagens menu🍽️
-UID:864ead72-e593-499c-8df6-438b47b37b55@864e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Pasta bolognese med parmesan og basilikum\nStudentermåltid:\n Indisk cashew karry med ris - Vegetarisk\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240212T100000Z
-DTSTART:20240212T090000Z
-SUMMARY:Dagens menu🍽️
-UID:c4ee3d7b-8918-4adc-8d68-b07052be9745@c4ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Stir fry af svinekød med ris\nSalater:\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Kartoffelsalat\n Stegte kikærter\n Quinoasalat\nStudentermåltid:\n Carbonara med bacon og parmesanost\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240205T100000Z
-DTSTART:20240205T090000Z
-SUMMARY:Dagens menu🍽️
-UID:5a91ee73-fae2-4e71-835a-c9ab00787379@5a91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Vegetariske græskar frikadeller med tyttebær dressing\n Cremet pasta med portobello svampe og baconstøv\nSalater:\n Bønnesalat\n Pastasalat\n Tomat\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Haricot vertes\n Majs\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240131T100000Z
-DTSTART:20240131T090000Z
-SUMMARY:Dagens menu🍽️
-UID:cc5ed9a8-7036-48bb-9ff6-3574b52660fa@cc5e.org
+UID:826742bf-d817-4d67-a835-5c68e5431231@8267.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Flæskestegs sandwich\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240216T100000Z
 DTSTART:20240216T090000Z
 SUMMARY:Dagens menu🍽️
-UID:9ec29e26-2c04-4d09-aec5-60cb0a7722f7@9ec2.org
+UID:47c4b910-04c2-4f05-9d94-f99ca8bb8d1a@47c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Stir fry af svinekød med ris\nSalater:\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Kartoffelsalat\n Stegte kikærter\n Quinoasalat\nStudentermåltid:\n Carbonara med bacon og parmesanost\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240205T100000Z
+DTSTART:20240205T090000Z
+SUMMARY:Dagens menu🍽️
+UID:47623d15-bb92-45c5-93cb-bcf840da4d44@4762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Vegetarisk lasagne på linser og spinat\n Bagt selleri med gotlandslinser\nSalater:\n Haricot vertes\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Quinoasalat\n Bulgursalat\nStudentermåltid:\n Nudler\, tofu\, sesam og chili\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240206T100000Z
+DTSTART:20240206T090000Z
+SUMMARY:Dagens menu🍽️
+UID:f3de7269-c249-4652-a788-eb9e2f9745c4@f3de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Fiskefrikadeller med små kartofler og dildsauce\nStudentermåltid:\n Grøn stifado med svampe\, løg og tomat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240215T100000Z
 DTSTART:20240215T090000Z
 SUMMARY:Dagens menu🍽️
-UID:655d526f-ab30-48ec-b068-73d34928e073@655d.org
+UID:0798f531-d0df-46bd-a3d8-f6efdf429b5c@0798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Langtidsstegt nakkefilet\, grønne bønner\, løg og bacon. Stegte kartofler.\nSalater:\n Bønnesalat\n Humus\n Stegte pastinakker og gulerødder\n Bulgur med feta\n Pastasalat\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\nStudentermåltid:\n Aloo Gobi med ris\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240202T100000Z
+DTSTART:20240202T090000Z
+SUMMARY:Dagens menu🍽️
+UID:6b8206c2-93ec-43e6-8e93-e0917b0a35ee@6b82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Pasta bolognese med parmesan og basilikum\nStudentermåltid:\n Indisk cashew karry med ris - Vegetarisk\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240212T100000Z
+DTSTART:20240212T090000Z
+SUMMARY:Dagens menu🍽️
+UID:a3f31c0b-7df0-4a8b-941f-8db3fbe4f73f@a3f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Kylling\, tomat\, peberfrugt\, aubergine spread\n Stegte ris\n Bagte rødbeder\nSalater:\n Agurker\n Ærter\n Rodfrugter med feta\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Majs\n Kartoffelsalat\n Sellerisalat\n Feta dressing\n Pastasalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240129T100000Z
+DTSTART:20240129T090000Z
+SUMMARY:Dagens menu🍽️
+UID:c0ea1f42-c291-4ee9-8b84-be343026a4e8@c0ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Krebinetter med stuvet spidskål og saltbagte kartofler\nSalater:\n Haricot vertes\n Humus\n Oliven\n Bønnesalat\n Nudler med teriyaki\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Majs\n Sorte kikærter og grønkål\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240209T100000Z
+DTSTART:20240209T090000Z
+SUMMARY:Dagens menu🍽️
+UID:445ccc2c-21d7-4c72-8dc6-2292984968fb@445c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Pizza med svampe eller jordskokker\n Risotto lavet på kamut\, vendt med saltbagte grøntsager og gærflager\n Kikærter\, kokos\, karry\, lime\nSalater:\n Bønnesalat\n Pastasalat\n Kikærtesalat\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Oliven\n Majs\n Haricot vertes\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240130T100000Z
+DTSTART:20240130T090000Z
+SUMMARY:Dagens menu🍽️
+UID:d8314b0c-08a3-4806-a4bd-021e77a5f52c@d831.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Vegetariske græskar frikadeller med tyttebær dressing\n Cremet pasta med portobello svampe og baconstøv\nSalater:\n Bønnesalat\n Pastasalat\n Tomat\n Agurker\n Ærter\n Mixsalat\n Revet gulerod\n Revet rødbeder\n Urtedressing\n Haricot vertes\n Majs\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240131T100000Z
+DTSTART:20240131T090000Z
+SUMMARY:Dagens menu🍽️
+UID:511e5b1e-696f-420b-80d1-2b09b584648b@511e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Imam Bayildi\nStudentermåltid:\n Kikærte fladbrød - Squash\, bønnespirer og goma\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240213T100000Z
+DTSTART:20240213T090000Z
+SUMMARY:Dagens menu🍽️
+UID:55de6cde-a68f-401e-868c-60c9ee094a34@55de.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
