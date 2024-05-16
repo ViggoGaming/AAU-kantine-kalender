@@ -2,60 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Pasta\, asparges\, sprød chorizo\nStudentermåltid:\n Bagt kartoffel med bacon\, purløg og cremefraiche dressing\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240516T100000Z
-DTSTART:20240516T090000Z
-SUMMARY:Dagens menu🍽️
-UID:d6adc16a-10c5-4e7a-ad50-d6c497d77bcc@d6ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Chili con carne med ris\, cremefraiche og chips\nStudentermåltid:\n Curry med broccoli\, æbler\, peanuts og quinoa ris\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240515T100000Z
-DTSTART:20240515T090000Z
-SUMMARY:Dagens menu🍽️
-UID:0171ad0d-f0a6-40d2-bb00-7b67575a3faf@0171.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Ribbensteg med syltet tranebær og grillet kål\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240513T100000Z
-DTSTART:20240513T090000Z
-SUMMARY:Dagens menu🍽️
-UID:aae7abc0-1aa0-40a5-a739-199b85032701@aae7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Burger med kylling\, chipotle mayo og syltet grønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240517T100000Z
-DTSTART:20240517T090000Z
-SUMMARY:Dagens menu🍽️
-UID:2a01c5d5-66ef-4c5e-8915-924c8936d180@2a01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Wok af nudler\, svinekød\, stegte grøntsager\, soya og peanuts\nStudentermåltid:\n Linse Masala med svampe og spinat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240502T100000Z
-DTSTART:20240502T090000Z
-SUMMARY:Dagens menu🍽️
-UID:f1f09792-5e9f-4f3f-940e-3c1033dcce73@f1f0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Bao med kylling\, stegt kål\, gulerødder\, soya og sesam\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240503T100000Z
 DTSTART:20240503T090000Z
 SUMMARY:Dagens menu🍽️
-UID:888ce184-d633-4feb-8f9a-cb8106d15452@888c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Hakkebøf med løgkompot\, ristet kartofler og bearnaise\nStudentermåltid:\n Aubergine pizza med bulgurssalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240501T100000Z
-DTSTART:20240501T090000Z
-SUMMARY:Dagens menu🍽️
-UID:f395ad04-1d48-4f59-af85-6328e5cfe8d4@f395.org
+UID:1af0291c-dfca-464b-aded-f467863e5ad2@1af0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Perlebygotto med svampe\, ramsløg og asparges\nStudentermåltid:\n Jerk med kikærter\, græskar og palmekål\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240514T100000Z
 DTSTART:20240514T090000Z
 SUMMARY:Dagens menu🍽️
-UID:0ac8b3f8-4a7a-4942-858f-bcbe060c21a4@0ac8.org
+UID:f5e316f8-4462-45a1-8a80-2ac1e3ed28b3@f5e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Pasta\, asparges\, sprød chorizo\nStudentermåltid:\n Bagt kartoffel med bacon\, purløg og cremefraiche dressing\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240516T100000Z
+DTSTART:20240516T090000Z
+SUMMARY:Dagens menu🍽️
+UID:a927da32-b7b9-4bb9-8368-2146f37c37cd@a927.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Ribbensteg med syltet tranebær og grillet kål\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240513T100000Z
+DTSTART:20240513T090000Z
+SUMMARY:Dagens menu🍽️
+UID:af746cb9-502a-4420-920a-6f42d790b242@af74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Chili con carne med ris\, cremefraiche og chips\nStudentermåltid:\n Curry med broccoli\, æbler\, peanuts og quinoa ris\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240515T100000Z
+DTSTART:20240515T090000Z
+SUMMARY:Dagens menu🍽️
+UID:bbea26e2-4190-48e3-94c9-ecea5cbdb20b@bbea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Burger med kylling\, chipotle mayo og syltet grønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240517T100000Z
+DTSTART:20240517T090000Z
+SUMMARY:Dagens menu🍽️
+UID:e6f31951-5e02-4602-b688-52dd14cb305c@e6f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Wok af nudler\, svinekød\, stegte grøntsager\, soya og peanuts\nStudentermåltid:\n Linse Masala med svampe og spinat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240502T100000Z
+DTSTART:20240502T090000Z
+SUMMARY:Dagens menu🍽️
+UID:3d61b8a8-d975-4fab-a257-d2dd45adb76f@3d61.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
