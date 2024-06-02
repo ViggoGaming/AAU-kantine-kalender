@@ -2,109 +2,109 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Hvidløgsstegt svinekotelet med svampesauce og nye kartofler\nStudentermåltid:\n Oksegryde med bønner\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240527T100000Z
-DTSTART:20240527T090000Z
-SUMMARY:Dagens menu🍽️
-UID:157b4e60-7e67-4f7c-a682-ef9db0c8b7fb@157b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Kylling\, gremolata og polenta\nBuffeten:\n Spaghettti carbonara med bacon og parmesan\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240603T100000Z
-DTSTART:20240603T090000Z
-SUMMARY:Dagens menu🍽️
-UID:40bab497-98df-406a-9bd5-dbdabad4cc2b@40ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Lukket\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240520T100000Z
-DTSTART:20240520T090000Z
-SUMMARY:Dagens menu🍽️
-UID:8cb98724-7d5f-4f81-a973-a18c62f494e4@8cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Pizza (Café lukket)\n Spaghetti bolognese med parmesan og basilikum\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240607T100000Z
-DTSTART:20240607T090000Z
-SUMMARY:Dagens menu🍽️
-UID:b6756013-f02c-480d-9d02-90b4f46c63ee@b675.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Fiskefrikadeller med hjemmerørt remoulade og nye kartofler\nStudentermåltid:\n Vegetar tikka masala med basmatiris og brød\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240606T100000Z
-DTSTART:20240606T090000Z
-SUMMARY:Dagens menu🍽️
-UID:4a4fff7c-5191-419e-8256-cbbb2aaad6c3@4a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Frikadeller af kalv og flæsk med sommer frikassé og små kartofler\nStudentermåltid:\n Sesambagt pastinak\, polenta\, grøn olie\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240521T100000Z
-DTSTART:20240521T090000Z
-SUMMARY:Dagens menu🍽️
-UID:08a0f48d-f613-4c16-8f55-942789d03299@08a0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Marokkansk temadag\nStudentermåltid:\n Marokkansk temadag\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240524T100000Z
-DTSTART:20240524T090000Z
+DTEND:20240523T100000Z
+DTSTART:20240523T090000Z
 SUMMARY:Dagens menu🍽️
-UID:650ae9df-c233-4d22-a029-7bc5ea65c55d@650a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Vegetarisk canneloni med linser og ricotta og tomatsauce\nStudentermåltid:\n Veganske linsedeller med Ingrid Marie ærte humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240604T100000Z
-DTSTART:20240604T090000Z
-SUMMARY:Dagens menu🍽️
-UID:0e841ea3-ce4c-45a3-974b-d39d3468073b@0e84.org
+UID:70fe2f45-5575-4b09-8345-6eb71f1a1984@70fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Lukket Grundlovsdag\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240605T100000Z
 DTSTART:20240605T090000Z
 SUMMARY:Dagens menu🍽️
-UID:d5882ca6-edb6-4168-8e0a-ebb413df4cbc@d588.org
+UID:fc256fb2-d428-4f9c-8279-6ed631582611@fc25.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Marokkansk temadag\nStudentermåltid:\n Marokkansk temadag\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240523T100000Z
-DTSTART:20240523T090000Z
+DESCRIPTION:Varme retter:\n Frikadeller af kalv og flæsk med sommer frikassé og små kartofler\nStudentermåltid:\n Sesambagt pastinak\, polenta\, grøn olie\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240521T100000Z
+DTSTART:20240521T090000Z
 SUMMARY:Dagens menu🍽️
-UID:74127b45-5a5c-4e94-a5c4-dc8fa238367f@7412.org
+UID:61bfac0b-980a-43b3-abb0-b6366a0a5962@61bf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Indbagte grøntsager med urtedip\, nudler med sweet chili sauce\nStudentermåltid:\n Puntalette risotto med asparges og ærter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240528T100000Z
-DTSTART:20240528T090000Z
+DESCRIPTION:Varme retter:\n Kylling\, gremolata og polenta\nBuffeten:\n Spaghettti carbonara med bacon og parmesan\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240603T100000Z
+DTSTART:20240603T090000Z
 SUMMARY:Dagens menu🍽️
-UID:b2ed31b7-7cd8-40aa-b585-4956319d9d19@b2ed.org
+UID:893e11ad-6a92-468a-b426-eb2c4cfeadac@893e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Hvidløgsstegt svinekotelet med svampesauce og nye kartofler\nStudentermåltid:\n Oksegryde med bønner\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240527T100000Z
+DTSTART:20240527T090000Z
+SUMMARY:Dagens menu🍽️
+UID:88910d40-07f9-46e7-b7c6-6064e1409c2b@8891.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Carnitas med pico de gallo\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240531T100000Z
 DTSTART:20240531T090000Z
 SUMMARY:Dagens menu🍽️
-UID:bcbb0cbc-2f2f-4265-aaae-0fd277a86fc9@bcbb.org
+UID:c2a9a401-2ea1-4dd8-a1f3-e1c8b2fa61d7@c2a9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Butterchicken kødboller med ris\nStudentermåltid:\n Pasta arabiata med soltørret tomater og aubergine\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240529T100000Z
-DTSTART:20240529T090000Z
+DESCRIPTION:Varme retter:\n Vegetarisk canneloni med linser og ricotta og tomatsauce\nStudentermåltid:\n Veganske linsedeller med Ingrid Marie ærte humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240604T100000Z
+DTSTART:20240604T090000Z
 SUMMARY:Dagens menu🍽️
-UID:412a8e02-f646-4e2f-9a10-2f85b505e6a0@412a.org
+UID:d2c9148c-ed72-44c9-bdee-06b3c08a3ca1@d2c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Lukket\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240520T100000Z
+DTSTART:20240520T090000Z
+SUMMARY:Dagens menu🍽️
+UID:42fdd542-58b1-4e2e-b249-7fc524f1536d@42fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Mexikanske tacotubs med oksekød og dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240522T100000Z
 DTSTART:20240522T090000Z
 SUMMARY:Dagens menu🍽️
-UID:dd5d7c41-26e4-4c19-8051-339e12ffe824@dd5d.org
+UID:06be0bdd-e938-4211-9f67-846731722510@06be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Butterchicken kødboller med ris\nStudentermåltid:\n Pasta arabiata med soltørret tomater og aubergine\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240529T100000Z
+DTSTART:20240529T090000Z
+SUMMARY:Dagens menu🍽️
+UID:2b040da9-e2f8-4e6a-b5ed-1c22b31335b8@2b04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Indbagte grøntsager med urtedip\, nudler med sweet chili sauce\nStudentermåltid:\n Puntalette risotto med asparges og ærter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240528T100000Z
+DTSTART:20240528T090000Z
+SUMMARY:Dagens menu🍽️
+UID:dffd0806-8eeb-4c71-affe-8621c4efef3e@dffd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Gratineret mørksej med grillet squash og tomater\nStudentermåltid:\n Knuste kartofler med sommersalat og ristet boghvede\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240530T100000Z
 DTSTART:20240530T090000Z
 SUMMARY:Dagens menu🍽️
-UID:c0de21d9-f0c0-4b27-95ff-ab25d2ff87e7@c0de.org
+UID:a8eb91d4-cc69-4b4e-86bc-36d9777c61cd@a8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Fiskefrikadeller med hjemmerørt remoulade og nye kartofler\nStudentermåltid:\n Vegetar tikka masala med basmatiris og brød\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240606T100000Z
+DTSTART:20240606T090000Z
+SUMMARY:Dagens menu🍽️
+UID:693a4333-7af6-4663-9545-296c84c404de@693a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Marokkansk temadag\nStudentermåltid:\n Marokkansk temadag\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240524T100000Z
+DTSTART:20240524T090000Z
+SUMMARY:Dagens menu🍽️
+UID:00c41922-175c-4940-95f2-eeab37fac1d4@00c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Pizza (Café lukket)\n Spaghetti bolognese med parmesan og basilikum\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240607T100000Z
+DTSTART:20240607T090000Z
+SUMMARY:Dagens menu🍽️
+UID:b145ace6-1066-40a2-bbea-acc1eceeca9b@b145.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
