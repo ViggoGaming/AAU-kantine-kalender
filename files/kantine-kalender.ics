@@ -2,53 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Spidskål med sommersalsa\, sennepsfrø og røget tempeh\n Vegetarisk panang karry med kikærter og edamame bønner\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240620T100000Z
-DTSTART:20240620T090000Z
+DESCRIPTION:Varme retter:\n Kylling i cremet sauce med grønne asparges og puntalette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240627T100000Z
+DTSTART:20240627T090000Z
 SUMMARY:Dagens menu🍽️
-UID:1cffcec1-23e7-4730-a9f1-534ee47e8c66@1cff.org
+UID:a017bfd9-2a5a-4b87-b5bb-6676aed27c36@a017.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Kalveculotte\, nudler\, chutney\, cashew nødder og kokos\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240624T100000Z
 DTSTART:20240624T090000Z
 SUMMARY:Dagens menu🍽️
-UID:b1261ccb-86a2-460f-8b4a-7f9345ccd70c@b126.org
+UID:fd522c72-979c-49ec-b1cf-697e261181a1@fd52.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Medister med kartofler\, rødbeder og skysauce\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240626T100000Z
 DTSTART:20240626T090000Z
 SUMMARY:Dagens menu🍽️
-UID:f3b850d7-57fb-41a6-84c2-1f9be57e9ad7@f3b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Fredags buffet med lækkert udvalg af kød/vegetar retter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240628T100000Z
-DTSTART:20240628T090000Z
-SUMMARY:Dagens menu🍽️
-UID:d66c1103-e178-4d2d-8222-b932d34420f4@d66c.org
+UID:690d86cb-1995-4719-a307-6ce8efc9a09c@690d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Kalvefrikadeller med lun kartoffelsalat\, croutoner\, radiser og vinaigrette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240621T100000Z
 DTSTART:20240621T090000Z
 SUMMARY:Dagens menu🍽️
-UID:005a908e-c4d0-46be-98c5-b094972b22a0@005a.org
+UID:e5a70d42-2618-46e2-9f82-340a4ac4b56f@e5a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Spidskål med sommersalsa\, sennepsfrø og røget tempeh\n Vegetarisk panang karry med kikærter og edamame bønner\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240620T100000Z
+DTSTART:20240620T090000Z
+SUMMARY:Dagens menu🍽️
+UID:6a16df7e-a30e-4834-8e8f-1c66812fd90f@6a16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Fredags buffet med lækkert udvalg af kød/vegetar retter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240628T100000Z
+DTSTART:20240628T090000Z
+SUMMARY:Dagens menu🍽️
+UID:b24b1203-4414-49a3-98d2-4b1e4a7235e5@b24b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Okonomiyaki med kål og dukkah\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240625T100000Z
 DTSTART:20240625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:223b454f-0065-4f8f-966a-fcbccdc2c191@223b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Kylling i cremet sauce med grønne asparges og puntalette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240627T100000Z
-DTSTART:20240627T090000Z
-SUMMARY:Dagens menu🍽️
-UID:f3d431f6-c157-4870-91b0-c5646122ae3c@f3d4.org
+UID:00f5447c-942b-4752-8261-85cc1eb753b6@00f5.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
