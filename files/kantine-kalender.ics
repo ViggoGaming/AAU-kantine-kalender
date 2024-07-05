@@ -2,46 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Fredags buffet med lækkert udvalg af kød/vegetar retter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240628T100000Z
-DTSTART:20240628T090000Z
-SUMMARY:Dagens menu🍽️
-UID:59c5ffc0-d74d-4d0f-ab60-f5ea592b9358@59c5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Okonomiyaki med kål og dukkah\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240625T100000Z
 DTSTART:20240625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:15593dd0-260c-4105-9bcc-107641f18940@1559.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Kylling i cremet sauce med grønne asparges og puntalette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240627T100000Z
-DTSTART:20240627T090000Z
-SUMMARY:Dagens menu🍽️
-UID:d7ea8778-4694-4798-aa65-5dd20bc41d4d@d7ea.org
+UID:9b85b1db-a262-47e3-9101-4ef98458b3f7@9b85.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Kalvefrikadeller med lun kartoffelsalat\, croutoner\, radiser og vinaigrette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240621T100000Z
 DTSTART:20240621T090000Z
 SUMMARY:Dagens menu🍽️
-UID:1b031bd0-8b7c-4e39-a007-68030928cd49@1b03.org
+UID:11842adf-e238-4e15-ba01-fa6f040fe8ac@1184.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Medister med kartofler\, rødbeder og skysauce\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240626T100000Z
-DTSTART:20240626T090000Z
+DESCRIPTION:Varme retter:\n Kylling i cremet sauce med grønne asparges og puntalette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240627T100000Z
+DTSTART:20240627T090000Z
 SUMMARY:Dagens menu🍽️
-UID:65094771-d0de-458a-94bc-efe797f215b4@6509.org
+UID:56c82c52-9fdc-47eb-977d-e9543c923c21@56c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Fredags buffet med lækkert udvalg af kød/vegetar retter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240628T100000Z
+DTSTART:20240628T090000Z
+SUMMARY:Dagens menu🍽️
+UID:f6b48f00-756a-4adb-84d2-b564e12a4360@f6b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Kalveculotte\, nudler\, chutney\, cashew nødder og kokos\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240624T100000Z
 DTSTART:20240624T090000Z
 SUMMARY:Dagens menu🍽️
-UID:f6e07530-dc9e-4b8d-8996-fc8bc101c41f@f6e0.org
+UID:96b636e5-ef76-44d5-882d-d3b935ea7c34@96b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Medister med kartofler\, rødbeder og skysauce\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240626T100000Z
+DTSTART:20240626T090000Z
+SUMMARY:Dagens menu🍽️
+UID:22a8b094-7431-4a1e-9bf3-95b926496cbb@22a8.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
