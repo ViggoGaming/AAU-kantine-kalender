@@ -6,42 +6,35 @@ DESCRIPTION:Varme retter:\n Okonomiyaki med kål og dukkah\n\nUdviklet af Victor
 DTEND:20240625T100000Z
 DTSTART:20240625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:5b276400-9f4e-401f-af51-54cae0d4bb78@5b27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Medister med kartofler\, rødbeder og skysauce\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240626T100000Z
-DTSTART:20240626T090000Z
-SUMMARY:Dagens menu🍽️
-UID:e177b2ef-a9b2-48f0-82a6-a39f75c2014e@e177.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Kalvefrikadeller med lun kartoffelsalat\, croutoner\, radiser og vinaigrette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240621T100000Z
-DTSTART:20240621T090000Z
-SUMMARY:Dagens menu🍽️
-UID:82bc56f4-ceb2-4f22-b0f3-b0d27f155726@82bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Fredags buffet med lækkert udvalg af kød/vegetar retter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240628T100000Z
-DTSTART:20240628T090000Z
-SUMMARY:Dagens menu🍽️
-UID:7b240af2-ea0c-4b4f-ac71-e8ee9b3b4ede@7b24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Kalveculotte\, nudler\, chutney\, cashew nødder og kokos\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240624T100000Z
-DTSTART:20240624T090000Z
-SUMMARY:Dagens menu🍽️
-UID:51b69c6f-a3be-49a7-ad9b-9112d5015f75@51b6.org
+UID:0ffa93fc-0866-4dd7-baf8-c9264f02e3e1@0ffa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Kylling i cremet sauce med grønne asparges og puntalette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240627T100000Z
 DTSTART:20240627T090000Z
 SUMMARY:Dagens menu🍽️
-UID:11657bee-fae7-4443-af3f-0a9bae575df4@1165.org
+UID:ec1eca46-63c6-4a03-a028-3e7d4c1e2fc8@ec1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Medister med kartofler\, rødbeder og skysauce\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240626T100000Z
+DTSTART:20240626T090000Z
+SUMMARY:Dagens menu🍽️
+UID:3ab64255-ce2f-476f-b73d-7b7da8c2d233@3ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Fredags buffet med lækkert udvalg af kød/vegetar retter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240628T100000Z
+DTSTART:20240628T090000Z
+SUMMARY:Dagens menu🍽️
+UID:52894a6f-a165-4083-8641-1f2d4884ab77@5289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Kalveculotte\, nudler\, chutney\, cashew nødder og kokos\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240624T100000Z
+DTSTART:20240624T090000Z
+SUMMARY:Dagens menu🍽️
+UID:8dec4bf0-a6d1-444b-aa7b-db7c4807a642@8dec.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
