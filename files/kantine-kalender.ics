@@ -2,32 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Fredags buffet med lækkert udvalg af kød/vegetar retter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240628T100000Z
+DTSTART:20240628T090000Z
+SUMMARY:Dagens menu🍽️
+UID:8ddd52b4-d026-4c5e-b52e-223a080f19ae@8ddd.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Medister med kartofler\, rødbeder og skysauce\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240626T100000Z
 DTSTART:20240626T090000Z
 SUMMARY:Dagens menu🍽️
-UID:b27cff6f-fa81-45c3-9d8e-d82dd321d518@b27c.org
+UID:704e4e23-1312-41bf-91ff-3888d77322ef@704e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Kylling i cremet sauce med grønne asparges og puntalette\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240627T100000Z
 DTSTART:20240627T090000Z
 SUMMARY:Dagens menu🍽️
-UID:89ad33d2-fa5f-479d-8d72-b46989c487e7@89ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Fredags buffet med lækkert udvalg af kød/vegetar retter\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240628T100000Z
-DTSTART:20240628T090000Z
-SUMMARY:Dagens menu🍽️
-UID:ab5cb678-dd2e-4b1a-966c-b14bdce4b69d@ab5c.org
+UID:342d0bae-74b7-4473-90d3-cde0115334b7@342d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Okonomiyaki med kål og dukkah\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240625T100000Z
 DTSTART:20240625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:02e9c75b-cf91-4f7b-bbd8-32c1ca5b38e2@02e9.org
+UID:4ecef084-9a8a-4aa8-bb79-252fca740cb3@4ece.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
