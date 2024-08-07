@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n sesam stegt okse m/ pak choy-peberfrugt-edamame \, lun nudelsalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240815T100000Z
-DTSTART:20240815T090000Z
+DESCRIPTION:Varme retter:\n Klassisk frikadelle \,cremet kartoffelsalat \,sennep syltede agurk\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240816T100000Z
+DTSTART:20240816T090000Z
 SUMMARY:Dagens menu🍽️
-UID:2de88524-cc1d-4848-b955-6389288f2313@2de8.org
+UID:16efa828-7d6d-4ade-8b15-a558392ac16d@16ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Rosmarin stegt gris m/ hyben\, frikasse af gulerødder-selleri-asparges\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240814T100000Z
 DTSTART:20240814T090000Z
 SUMMARY:Dagens menu🍽️
-UID:36179df5-ab9d-440e-8d01-2d584dd82c2d@3617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Klassisk frikadelle \,cremet kartoffelsalat \,sennep syltede agurk\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240816T100000Z
-DTSTART:20240816T090000Z
-SUMMARY:Dagens menu🍽️
-UID:e08f328c-6f77-45af-b29e-f1f8676c3797@e08f.org
+UID:53af82a3-7f95-447c-a98d-604013b5edcc@53af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Varmrøget kylling \,Romescosc.m/ chili-hasselnødder \,bulgor\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240813T100000Z
 DTSTART:20240813T090000Z
 SUMMARY:Dagens menu🍽️
-UID:6b4448ac-48a3-4536-a657-054a6fda8bf9@6b44.org
+UID:c2eb4843-f0c6-4ad6-a774-6d02dea9f8f9@c2eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n sesam stegt okse m/ pak choy-peberfrugt-edamame \, lun nudelsalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240815T100000Z
+DTSTART:20240815T090000Z
+SUMMARY:Dagens menu🍽️
+UID:2bef5fd3-254e-4c76-8f1c-d59a268f11c2@2bef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Burrito med oksekød \,avocado \,cheddar ost og tomatsalsa\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240812T100000Z
 DTSTART:20240812T090000Z
 SUMMARY:Dagens menu🍽️
-UID:0e7523af-bc94-45c1-b0e7-c3cee79d884c@0e75.org
+UID:be9e5229-3e3f-4ee5-91e2-192c81368328@be9e.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
