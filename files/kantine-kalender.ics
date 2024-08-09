@@ -2,39 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Rosmarin stegt gris m/ hyben\, frikasse af gulerødder-selleri-asparges\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240814T100000Z
-DTSTART:20240814T090000Z
-SUMMARY:Dagens menu🍽️
-UID:8787ab04-f377-41fd-bc97-69c0ef9e69f6@8787.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Burrito med oksekød \,avocado \,cheddar ost og tomatsalsa\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240812T100000Z
 DTSTART:20240812T090000Z
 SUMMARY:Dagens menu🍽️
-UID:e3317167-c58e-4b32-8f7a-3ceff76869cd@e331.org
+UID:fa3447b6-de1d-4f21-910d-6d045e24ab28@fa34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Rosmarin stegt gris m/ hyben\, frikasse af gulerødder-selleri-asparges\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240814T100000Z
+DTSTART:20240814T090000Z
+SUMMARY:Dagens menu🍽️
+UID:ee4aaa5e-a2d8-4136-a1f0-b39653410992@ee4a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Varmrøget kylling \,Romescosc.m/ chili-hasselnødder \,bulgor\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240813T100000Z
 DTSTART:20240813T090000Z
 SUMMARY:Dagens menu🍽️
-UID:fc5f96c6-b707-462c-bb48-40b84403d274@fc5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n sesam stegt okse m/ pak choy-peberfrugt-edamame \, lun nudelsalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240815T100000Z
-DTSTART:20240815T090000Z
-SUMMARY:Dagens menu🍽️
-UID:9f184e44-6ea1-4260-ae84-4514010dccfe@9f18.org
+UID:b89984a6-b6b2-4b87-ad9e-e199efbb904b@b899.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Klassisk frikadelle \,cremet kartoffelsalat \,sennep syltede agurk\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240816T100000Z
 DTSTART:20240816T090000Z
 SUMMARY:Dagens menu🍽️
-UID:781b650c-1a01-4e77-ae5e-f3c527c201bf@781b.org
+UID:2bdce38d-b954-45da-b8fc-1301b6b60786@2bdc.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
