@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n sesam stegt okse m/ pak choy-peberfrugt-edamame \, lun nudelsalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240815T100000Z
-DTSTART:20240815T090000Z
-SUMMARY:Dagens menu🍽️
-UID:31a63260-2a78-4282-9a45-a955f90439bf@31a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Rosmarin stegt gris m/ hyben\, frikasse af gulerødder-selleri-asparges\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240814T100000Z
-DTSTART:20240814T090000Z
-SUMMARY:Dagens menu🍽️
-UID:964c3bce-8780-4210-9ff2-86467e9934ec@964c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Burrito med oksekød \,avocado \,cheddar ost og tomatsalsa\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240812T100000Z
 DTSTART:20240812T090000Z
 SUMMARY:Dagens menu🍽️
-UID:9c444f2f-973f-4350-b188-a364eb7e7ec9@9c44.org
+UID:18b9d8c6-7fad-49d1-9b2e-ddad0d756925@18b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Klassisk frikadelle \,cremet kartoffelsalat \,sennep syltede agurk\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240816T100000Z
 DTSTART:20240816T090000Z
 SUMMARY:Dagens menu🍽️
-UID:97738fbc-5212-4467-b99c-24dbaeda865b@9773.org
+UID:5dc20160-61dc-47e2-9456-bb336b516d6b@5dc2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Varmrøget kylling \,Romescosc.m/ chili-hasselnødder \,bulgor\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240813T100000Z
 DTSTART:20240813T090000Z
 SUMMARY:Dagens menu🍽️
-UID:96d253e8-719a-4058-806b-96a1f6f49a3a@96d2.org
+UID:d0be8336-8a0c-412f-88a6-c7e11cd9444d@d0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Rosmarin stegt gris m/ hyben\, frikasse af gulerødder-selleri-asparges\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240814T100000Z
+DTSTART:20240814T090000Z
+SUMMARY:Dagens menu🍽️
+UID:4cf485c3-b531-4c8b-8a27-d44ab2eb3202@4cf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n sesam stegt okse m/ pak choy-peberfrugt-edamame \, lun nudelsalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240815T100000Z
+DTSTART:20240815T090000Z
+SUMMARY:Dagens menu🍽️
+UID:370ddbf6-4da2-447a-8e12-cfa9d67eda81@370d.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
