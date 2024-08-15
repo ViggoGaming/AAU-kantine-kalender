@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Burrito med oksekød \,avocado \,cheddar ost og tomatsalsa\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240812T100000Z
-DTSTART:20240812T090000Z
-SUMMARY:Dagens menu🍽️
-UID:2e78e785-241a-4e32-ba23-05794e60c213@2e78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n sesam stegt okse m/ pak choy-peberfrugt-edamame \, lun nudelsalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240815T100000Z
-DTSTART:20240815T090000Z
-SUMMARY:Dagens menu🍽️
-UID:a386011a-12fe-457c-a224-43e9546b3667@a386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n Varmrøget kylling \,Romescosc.m/ chili-hasselnødder \,bulgor\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20240813T100000Z
-DTSTART:20240813T090000Z
-SUMMARY:Dagens menu🍽️
-UID:091a9388-3f4b-45ae-9692-646b636f3d1c@091a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Klassisk frikadelle \,cremet kartoffelsalat \,sennep syltede agurk\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240816T100000Z
 DTSTART:20240816T090000Z
 SUMMARY:Dagens menu🍽️
-UID:627ba8e6-d258-413e-96b9-91911b517f8d@627b.org
+UID:a0e81419-a05c-49f9-87e3-531f2a6345a9@a0e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n Rosmarin stegt gris m/ hyben\, frikasse af gulerødder-selleri-asparges\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20240814T100000Z
 DTSTART:20240814T090000Z
 SUMMARY:Dagens menu🍽️
-UID:1e5522dd-884f-4581-b740-36c36f92ce98@1e55.org
+UID:c88b7f9e-04ef-4e91-864d-79b210067d39@c88b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n sesam stegt okse m/ pak choy-peberfrugt-edamame \, lun nudelsalat\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240815T100000Z
+DTSTART:20240815T090000Z
+SUMMARY:Dagens menu🍽️
+UID:94036a53-843a-4864-9f5f-41695609f715@9403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Varmrøget kylling \,Romescosc.m/ chili-hasselnødder \,bulgor\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240813T100000Z
+DTSTART:20240813T090000Z
+SUMMARY:Dagens menu🍽️
+UID:615c4297-13ca-41a9-a8dc-21d8db9fca6c@615c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n Burrito med oksekød \,avocado \,cheddar ost og tomatsalsa\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20240812T100000Z
+DTSTART:20240812T090000Z
+SUMMARY:Dagens menu🍽️
+UID:77bc91fd-228c-44d6-adc2-4c8b7e0d9eec@77bc.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
