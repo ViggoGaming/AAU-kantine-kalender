@@ -9,7 +9,7 @@ def fetch_cisession_cookie():
     
     # Fetch the CISESSION cookie value
     cisession_cookie = response.cookies.get('CISESSION')
-    print(cisession_cookie)
+    print("Fetched CISESSION:", cisession_cookie)
 
     if not cisession_cookie:
         raise ValueError("Failed to fetch the CISESSION cookie!")
@@ -25,7 +25,7 @@ end_date = datetime.today() + timedelta(days=14)
 # Fetch the CISESSION cookie and update the headers
 cisession_cookie_value = fetch_cisession_cookie()
 headers = {'Cookie': f'cookiesDirective=1; CISESSION={cisession_cookie_value}'}
-print(headers)
+print("Request headers:", headers)
 
 # Fixed time for the menu events (11:00-12:00 Danish time)
 start_time = datetime.strptime('09:00 AM', '%I:%M %p')
@@ -42,36 +42,45 @@ def scrape_and_save_menu():
         url_template = f'https://aau.torvekoekken.dk/templates/menuliste/?date={date_str}&id=487'
         
         response = requests.get(url_template, headers=headers)
-        print(response.text)
-
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            if "Menu endnu ikke planlagt" not in soup.text:
-
+            # Check if menu is available by verifying content in the HTML
+            if ("Menu endnu ikke planlagt" not in soup.text) and (response.headers.get('Content-Length') != "863"):
+                
                 menu_sections = {}
                 current_section = None
-                for child in soup.find_all(['div', 'span']):  # Assuming parent doesn't have a unique identifier, iterating through all divs
-                    if child.name == 'div' and 'menu_header_ny' in child['class']:
-                        current_section = child.text.strip() + ':'
-                        menu_sections[current_section] = []
-                    elif current_section and child.name == 'div' and 'menu_ret_ny' in child['class']:
-                        menu_sections[current_section].append(child.text.strip())
 
+                # Parse each div tag to gather headers and menu items
+                for child in soup.find_all('div'):
+                    # Identify section headers
+                    if 'menu_header_ny' in child.get('class', []):
+                        current_section = child.text.strip() + ':'
+                        if current_section not in menu_sections:
+                            menu_sections[current_section] = [] 
+                    # Identify menu items for the current section
+                    elif current_section and 'menu_ret_ny' in child.get('class', []):
+                        menu_item = child.text.strip()
+                        if menu_item:  # Only add non-empty menu items
+                            menu_sections[current_section].append(menu_item)
+
+                # Construct event description from collected menu sections
                 event_description = []
                 for section, items in menu_sections.items():
-                    event_description.append(section)
-                    for index, item in enumerate(items, 1):
-                        event_description.append(f" {item}")
+                    if items:  # Ensure each section has items
+                        event_description.append(section)
+                        for item in items:
+                            event_description.append(f" - {item}")
 
-                event_description = "\n".join(event_description)
+                event_description_text = "\n".join(event_description)
                 additional_description = "Udviklet af Victor Buch, (https://victorbuch.dk)"
-                event_description += f"\n\n{additional_description}"
+                event_description_text += f"\n\n{additional_description}"
 
-                if event_description:  # Check if there's a description to add
+                # Add event to calendar if the description is not empty
+                if event_description:
                     e = Event()
                     e.name = "Dagens menu🍽️"
-                    e.description = event_description
+                    e.description = event_description_text
 
                     event_start = datetime.combine(current_date, start_time.time())
                     event_end = datetime.combine(current_date, end_time.time())
@@ -86,6 +95,7 @@ def scrape_and_save_menu():
 
         current_date += timedelta(days=1)
 
+    # Save the calendar file
     filename = "./files/kantine-kalender.ics"
     with open(filename, 'w') as ics_file:
         ics_content = str(cal)
