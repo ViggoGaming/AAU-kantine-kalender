@@ -2,81 +2,81 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Tortillas med kylling\, bønnespread og avocado dressing\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20250108T100000Z
-DTSTART:20250108T090000Z
+DESCRIPTION:Varme retter:\n - Græsk stifado af oksekød i rødvin\, gulerødder\, løg\, hvidløg\, timian og selleri\n - Varm ret\nStudentermåltid:\n - Pad thai med ris nudler\, tofu og cashew nødder\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20241216T100000Z
+DTSTART:20241216T090000Z
 SUMMARY:Dagens menu🍽️
-UID:31007f01-2ee6-49b5-81a5-bb72accf27df@3100.org
+UID:eb464d0b-8906-4ac5-9001-59ef9d1e47f0@eb46.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Fredags lækkerier - Vi ønsker alle en god jul & et godt nytår\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20241220T100000Z
 DTSTART:20241220T090000Z
 SUMMARY:Dagens menu🍽️
-UID:c8bb48f2-da15-4e15-b8dd-980dff92063a@c8bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Forloren hare med skysauce\, kartofler samt ribs\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20241231T100000Z
-DTSTART:20241231T090000Z
-SUMMARY:Dagens menu🍽️
-UID:11ff4dbe-cd32-46c9-b8d9-68cfde97fbf6@11ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Græsk stifado af oksekød i rødvin\, gulerødder\, løg\, hvidløg\, timian og selleri\n - Varm ret\nStudentermåltid:\n - Pad thai med ris nudler\, tofu og cashew nødder\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20241216T100000Z
-DTSTART:20241216T090000Z
-SUMMARY:Dagens menu🍽️
-UID:cb4ee5f5-7500-4981-9631-3af597737f96@cb4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Svinemørbrad med puy linser og miso\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20250110T100000Z
-DTSTART:20250110T090000Z
-SUMMARY:Dagens menu🍽️
-UID:4f375417-a51f-49c9-874d-0d0bc2acb55d@4f37.org
+UID:361c21c2-f8b4-4161-ae98-6be8bc101709@361c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Kylling i karry med basmatiris og agurkerelish\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250106T100000Z
 DTSTART:20250106T090000Z
 SUMMARY:Dagens menu🍽️
-UID:5bb569f1-c041-4262-bd87-06eb8f01d6f5@5bb5.org
+UID:12d10c4c-b4d4-4b65-abe8-ce276b7baab6@12d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Julebuffet\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20241218T100000Z
 DTSTART:20241218T090000Z
 SUMMARY:Dagens menu🍽️
-UID:c7999a06-6ecb-469d-b317-d358c767ce9b@c799.org
+UID:e847ddad-10c2-46ba-952a-a13182a75b49@e847.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Krabbe croquettes med sauce tartar\n - Perlespelt med rosenkål\, græskar og grønkål\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250107T100000Z
 DTSTART:20250107T090000Z
 SUMMARY:Dagens menu🍽️
-UID:87bc1a2b-179a-4066-ae16-d47a7137806a@87bc.org
+UID:f299cb45-1f4c-43e2-84cd-e1d65d9d590d@f299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Forloren hare med skysauce\, kartofler samt ribs\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20241231T100000Z
+DTSTART:20241231T090000Z
+SUMMARY:Dagens menu🍽️
+UID:94665672-32d6-4c34-af3b-415548aecfc3@9466.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Krydret græskar gryde med sirius ærter og blomkål\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250109T100000Z
 DTSTART:20250109T090000Z
 SUMMARY:Dagens menu🍽️
-UID:47ff1753-8431-4e18-be1f-f5c73ab732cd@47ff.org
+UID:9177a50f-0dbf-4f87-b866-f84fe0192cf2@9177.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Chili sin carne\, basmatiris\, cremefraiche og chips\n - Varm ret\nStudentermåltid:\n - Rød linsekarry med falafel og mynteyoghurt\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20241217T100000Z
-DTSTART:20241217T090000Z
+DESCRIPTION:Varme retter:\n - Svinemørbrad med puy linser og miso\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20250110T100000Z
+DTSTART:20250110T090000Z
 SUMMARY:Dagens menu🍽️
-UID:5c9f943f-df58-4a93-a91b-197a6bd8ff23@5c9f.org
+UID:13d1646c-27ea-49cc-b199-352bcc43e450@13d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Kyllingelasagne med spidskål salat\n - Varm ret\nStudentermåltid:\n - Tagliatelle med pesto\, soltørret tomat og bagt græskar\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20241219T100000Z
 DTSTART:20241219T090000Z
 SUMMARY:Dagens menu🍽️
-UID:ee7eb091-89d4-421c-9ab6-d62ba2b121b0@ee7e.org
+UID:a0046f91-528e-4782-ad38-cea2ae29eb69@a004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Tortillas med kylling\, bønnespread og avocado dressing\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20250108T100000Z
+DTSTART:20250108T090000Z
+SUMMARY:Dagens menu🍽️
+UID:5f907600-148c-4d46-88f6-596eee523e8b@5f90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Chili sin carne\, basmatiris\, cremefraiche og chips\n - Varm ret\nStudentermåltid:\n - Rød linsekarry med falafel og mynteyoghurt\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20241217T100000Z
+DTSTART:20241217T090000Z
+SUMMARY:Dagens menu🍽️
+UID:ce7ed241-49c6-435c-a376-db822dd0a2eb@ce7e.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
