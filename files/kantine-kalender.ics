@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Krebinetter-sommergrønt-nye kartofler\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20250617T100000Z
-DTSTART:20250617T090000Z
-SUMMARY:Dagens menu🍽️
-UID:6d7b0c1d-295c-4343-96b6-1c32281e2783@6d7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Kyllinge frikassé med asparges og gulerødder-knuste kartofler\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20250618T100000Z
-DTSTART:20250618T090000Z
-SUMMARY:Dagens menu🍽️
-UID:b245e515-2da8-42c9-ad0e-00d67596a253@b245.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Halloumiburger med auberginer\, basilikummayo og syltede rødløg\n - Blomkål gratin\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250616T100000Z
 DTSTART:20250616T090000Z
 SUMMARY:Dagens menu🍽️
-UID:7ad6c01f-4d5f-44e6-9a62-bd87c277e6e6@7ad6.org
+UID:c5a53bdc-4d72-48ea-9242-ad09948b86f9@c5a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Moussaka -græsk salat\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250620T100000Z
 DTSTART:20250620T090000Z
 SUMMARY:Dagens menu🍽️
-UID:303326be-14ba-42ff-8376-608f21b83379@3033.org
+UID:f0ed6286-c44a-48a0-a36f-b7a152a76161@f0ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Kyllinge frikassé med asparges og gulerødder-knuste kartofler\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20250618T100000Z
+DTSTART:20250618T090000Z
+SUMMARY:Dagens menu🍽️
+UID:ae0aa95a-f505-489f-947f-cb60995a9144@ae0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Krebinetter-sommergrønt-nye kartofler\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20250617T100000Z
+DTSTART:20250617T090000Z
+SUMMARY:Dagens menu🍽️
+UID:82e875ed-7876-4905-aeb6-4d3a49a882db@82e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Fiskefrikadeller-sennep-estragon dip-kartoffelsalat med asparges\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250619T100000Z
 DTSTART:20250619T090000Z
 SUMMARY:Dagens menu🍽️
-UID:a300a005-bfb6-438f-864a-c01343ad9482@a300.org
+UID:d2929c46-9eba-4e99-84a9-8939335a823c@d292.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
