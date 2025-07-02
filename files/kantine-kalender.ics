@@ -2,25 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Moussaka -græsk salat\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20250620T100000Z
-DTSTART:20250620T090000Z
+DESCRIPTION:Varme retter:\n - Kyllinge frikassé med asparges og gulerødder-knuste kartofler\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20250618T100000Z
+DTSTART:20250618T090000Z
 SUMMARY:Dagens menu🍽️
-UID:0796829d-7fe0-407b-9219-9509d183dc4c@0796.org
+UID:296c08f4-411c-4785-bf5f-7e447530e1ce@296c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Fiskefrikadeller-sennep-estragon dip-kartoffelsalat med asparges\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250619T100000Z
 DTSTART:20250619T090000Z
 SUMMARY:Dagens menu🍽️
-UID:290b7d4f-26fe-404a-b58e-4c7e39dd0825@290b.org
+UID:919049d3-9769-4c80-b4fb-b09a866e8115@9190.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Kyllinge frikassé med asparges og gulerødder-knuste kartofler\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20250618T100000Z
-DTSTART:20250618T090000Z
+DESCRIPTION:Varme retter:\n - Moussaka -græsk salat\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20250620T100000Z
+DTSTART:20250620T090000Z
 SUMMARY:Dagens menu🍽️
-UID:a05950d0-62f7-4b80-9e9f-f0b0e882a0f1@a059.org
+UID:14acdb29-4c50-429a-913b-f71d39e2e0f4@14ac.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
