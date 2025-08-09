@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Paella med kyllingelår\, chorizo og linser\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20250811T100000Z
-DTSTART:20250811T090000Z
-SUMMARY:Dagens menu🍽️
-UID:8987bd6a-a8d0-4ecc-b67c-056ece5a2f48@8987.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Krebinetter af kalv og flæsk\, stuvet sommergrønt og kartofler\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250815T100000Z
 DTSTART:20250815T090000Z
 SUMMARY:Dagens menu🍽️
-UID:df87b473-78bc-4955-ac50-a2a1ec06f226@df87.org
+UID:199655db-aada-4c6c-8bad-9d60f4b70a2e@1996.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Vegetar deller af perlebyg med asparges\, kantareller og spinat\, samt persille emulsion\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250812T100000Z
 DTSTART:20250812T090000Z
 SUMMARY:Dagens menu🍽️
-UID:1d7b63bb-22e0-474c-8d7c-4b95f3930673@1d7b.org
+UID:0be15c4e-9ecd-4d71-a412-8458fd0f92f2@0be1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Krydderstegt kylling\, grillet majssalsa\, chili\, fladbrød\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250814T100000Z
 DTSTART:20250814T090000Z
 SUMMARY:Dagens menu🍽️
-UID:a805381a-d271-4ee9-8248-6977e8fec8ec@a805.org
+UID:b554b2d4-77df-41b3-971a-03c534c42d7f@b554.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Svinemørbrad med svamperagout og hjemmelavet pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20250813T100000Z
 DTSTART:20250813T090000Z
 SUMMARY:Dagens menu🍽️
-UID:ffd347be-557c-4848-9b74-c4f9f89d74ef@ffd3.org
+UID:4ce97171-92a4-4697-910a-0b1b0dc20e81@4ce9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Paella med kyllingelår\, chorizo og linser\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20250811T100000Z
+DTSTART:20250811T090000Z
+SUMMARY:Dagens menu🍽️
+UID:0bf1398e-3f84-42bb-8ec9-2322e4bb1c1e@0bf1.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
