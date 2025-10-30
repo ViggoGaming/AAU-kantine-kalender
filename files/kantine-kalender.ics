@@ -2,95 +2,88 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Cremet pasta med sprødstegt kyllingeskind\, svampe\, basilikum & parmesan\n - Varm ret\nStudentermåltid:\n - Vegetarisk biksemad - Løg - Rødbeder - Bearnaise\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251023T100000Z
-DTSTART:20251023T090000Z
+DESCRIPTION:Varme retter:\n - Burger med nakkefilet - Grillost - Burgerdressing\n - Varm ret\nStudentermåltid:\n - Indisk dal chaat med kokos\, granatæble & løg\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251029T100000Z
+DTSTART:20251029T090000Z
 SUMMARY:Dagens menu🍽️
-UID:3480894d-1890-4689-b450-129f08f73b92@3480.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251017T100000Z
-DTSTART:20251017T090000Z
-SUMMARY:Dagens menu🍽️
-UID:efe0cf7c-06ad-4d92-8fd9-a59a8469567c@efe0.org
+UID:b5ee8119-4412-4ced-be73-e1746a7dc9fb@b5ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Frikassé med sprængt kalv - Dildkartofler\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20251024T100000Z
 DTSTART:20251024T090000Z
 SUMMARY:Dagens menu🍽️
-UID:85cf1f80-3237-421d-8cde-6a0cbc7d6e08@85cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Burger med nakkefilet - Grillost - Burgerdressing\n - Varm ret\nStudentermåltid:\n - Indisk dal chaat med kokos\, granatæble & løg\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251029T100000Z
-DTSTART:20251029T090000Z
-SUMMARY:Dagens menu🍽️
-UID:a454ebf4-9ff1-46f0-9899-c4ee689000b3@a454.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Kylling i karry\, basmatiris\, chutney\, peanuts\, kokos\n - Varm ret\nStudentermåltid:\n - Mexikansk ret med bønner & chili - Basmatiris\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251030T100000Z
-DTSTART:20251030T090000Z
-SUMMARY:Dagens menu🍽️
-UID:00ad2c1f-e7b7-4a4b-b9fa-6f3f5121fc7c@00ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Kookoo sibzamini - Shirazi salat\n - Varm ret\nStudentermåltid:\n - Linguini - soya - Sesam - Chili - Forårsløg - Peberfrugt\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251021T100000Z
-DTSTART:20251021T090000Z
-SUMMARY:Dagens menu🍽️
-UID:440923e5-de75-4d6e-8621-e388c34a8a17@4409.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Indisk tofukarry - Basmatiris -\n - Varm ret\nStudentermåltid:\n - Grøntsagskarry - Kokos - Ingridærter - Kartofler\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251028T100000Z
-DTSTART:20251028T090000Z
-SUMMARY:Dagens menu🍽️
-UID:48ca977a-3894-4602-bc4c-928a705d7900@48ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Frikadeller af kalv og flæsk - Kartofler - Sauce\n - Bagte beder med rygeost\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251016T100000Z
-DTSTART:20251016T090000Z
-SUMMARY:Dagens menu🍽️
-UID:f1355d8f-3fa6-4a42-bc36-d0a770f72db1@f135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Oksebavette - Græskar - Kartofler - Squash\n - Laks - Pasta - Spinat\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251031T100000Z
-DTSTART:20251031T090000Z
-SUMMARY:Dagens menu🍽️
-UID:95373dcf-5698-425a-a91b-df6b8519dbed@9537.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Kylling chasseur med rodfrugtmos\n - Varm ret\nStudentermåltid:\n - Stegte ris - Soya- Grøntsager\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251020T100000Z
-DTSTART:20251020T090000Z
-SUMMARY:Dagens menu🍽️
-UID:ce6900e0-aabe-4d67-b958-d1e6333f1631@ce69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Krebinetter - Stuvet grønt - Dampet kartofler\n - Varm ret\nStudentermåltid:\n - Pasta - Pesto - Peberfrugt - Squash - Rucola\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251027T100000Z
-DTSTART:20251027T090000Z
-SUMMARY:Dagens menu🍽️
-UID:7b9cdd97-6db2-4d35-817e-b0bbe974c294@7b9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Musaka - Sprød salat\n - Stegte kartofler - Grønkål - Linser\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20251015T100000Z
-DTSTART:20251015T090000Z
-SUMMARY:Dagens menu🍽️
-UID:a9c29437-28dc-45db-a120-8a6d9c4de85c@a9c2.org
+UID:0aed3a79-f4dc-492d-b722-d31eb9228804@0aed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Sticky pork - Basmatiris - Mango\n - Varm ret\nStudentermåltid:\n - Kakiyaki - Snittet grønt - Teriyakimarinade\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20251022T100000Z
 DTSTART:20251022T090000Z
 SUMMARY:Dagens menu🍽️
-UID:93c2990e-1a45-4b9c-9e48-c70173107d3b@93c2.org
+UID:c88d2197-9599-42c7-8eac-bf31f0860f82@c88d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Kylling i karry\, basmatiris\, chutney\, peanuts\, kokos\n - Varm ret\nStudentermåltid:\n - Mexikansk ret med bønner & chili - Basmatiris\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251030T100000Z
+DTSTART:20251030T090000Z
+SUMMARY:Dagens menu🍽️
+UID:20e5ebb3-1967-4d15-acaa-76cbf4c680d4@20e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Oksebavette - Græskar - Kartofler - Squash\n - Laks - Pasta - Spinat\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251031T100000Z
+DTSTART:20251031T090000Z
+SUMMARY:Dagens menu🍽️
+UID:7aafce83-9316-4edf-bc63-ab6aa3333293@7aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Cremet pasta med sprødstegt kyllingeskind\, svampe\, basilikum & parmesan\n - Varm ret\nStudentermåltid:\n - Vegetarisk biksemad - Løg - Rødbeder - Bearnaise\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251023T100000Z
+DTSTART:20251023T090000Z
+SUMMARY:Dagens menu🍽️
+UID:7ed356ec-5302-452c-b461-71aadedccf67@7ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Indisk tofukarry - Basmatiris -\n - Varm ret\nStudentermåltid:\n - Grøntsagskarry - Kokos - Ingridærter - Kartofler\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251028T100000Z
+DTSTART:20251028T090000Z
+SUMMARY:Dagens menu🍽️
+UID:f072548e-cf8f-4de8-be02-58368c92da17@f072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Kylling chasseur med rodfrugtmos\n - Varm ret\nStudentermåltid:\n - Stegte ris - Soya- Grøntsager\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251020T100000Z
+DTSTART:20251020T090000Z
+SUMMARY:Dagens menu🍽️
+UID:8a60290d-8306-4df7-9e41-812f5021d7a0@8a60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Kookoo sibzamini - Shirazi salat\n - Varm ret\nStudentermåltid:\n - Linguini - soya - Sesam - Chili - Forårsløg - Peberfrugt\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251021T100000Z
+DTSTART:20251021T090000Z
+SUMMARY:Dagens menu🍽️
+UID:1c3dd44b-3ed1-4e89-9c33-805fd227d9b1@1c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Frikadeller af kalv og flæsk - Kartofler - Sauce\n - Bagte beder med rygeost\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251016T100000Z
+DTSTART:20251016T090000Z
+SUMMARY:Dagens menu🍽️
+UID:ff5b4bc1-7f7d-4072-9c32-a5047a64f059@ff5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Krebinetter - Stuvet grønt - Dampet kartofler\n - Varm ret\nStudentermåltid:\n - Pasta - Pesto - Peberfrugt - Squash - Rucola\n - Studentermåltid\nTilbehør:\n - Tilbehør\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251027T100000Z
+DTSTART:20251027T090000Z
+SUMMARY:Dagens menu🍽️
+UID:337263dd-fd25-49f3-b73b-eacc71acdea2@3372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n - Varm ret\nTilbehør:\n - Tilbehør\nStudentermåltid:\n - Studentermåltid\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20251017T100000Z
+DTSTART:20251017T090000Z
+SUMMARY:Dagens menu🍽️
+UID:d0c29bfb-1471-4c91-90ec-6833058b24d9@d0c2.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
