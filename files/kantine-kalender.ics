@@ -2,67 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260624T100000Z
+DTSTART:20260624T090000Z
+SUMMARY:Dagens menu🍽️
+UID:0f376967-b875-4a85-923f-29ede5310606@0f37.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Gråærter-blomkål-ristede anichalinser-gulerods humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260623T100000Z
 DTSTART:20260623T090000Z
 SUMMARY:Dagens menu🍽️
-UID:1dfab02e-90d8-4b2d-b8b4-2ba814c7dd0e@1dfa.org
+UID:513bbe58-0141-4bed-ae87-08ffa6105171@513b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260625T100000Z
 DTSTART:20260625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:dc7d6cd5-54fd-404e-8369-55b9ef49cec9@dc7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260626T100000Z
-DTSTART:20260626T090000Z
-SUMMARY:Dagens menu🍽️
-UID:32d9c15d-11f0-4aad-931d-39bc30b30344@32d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260622T100000Z
-DTSTART:20260622T090000Z
-SUMMARY:Dagens menu🍽️
-UID:e719c3e9-6b39-4fef-98cf-a58977351785@e719.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Skinkeschnitzel med ceasar salat & nye danske kartofler\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260618T100000Z
-DTSTART:20260618T090000Z
-SUMMARY:Dagens menu🍽️
-UID:a8093f73-2e53-4477-9e9f-281b92c94762@a809.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260624T100000Z
-DTSTART:20260624T090000Z
-SUMMARY:Dagens menu🍽️
-UID:e1ac4955-a429-4b0a-b10a-57d562069891@e1ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Moussaka på oksekød - Tomatsalat med feta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260617T100000Z
-DTSTART:20260617T090000Z
-SUMMARY:Dagens menu🍽️
-UID:5515383c-5ae9-4478-84f2-93b9129241c7@5515.org
+UID:1e3fdb21-0cef-41c1-a792-33536d39adb4@1e3f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Spoleben marineret i øl\, timian & hvidløg. Grillede auberginer & kartofler\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260615T100000Z
 DTSTART:20260615T090000Z
 SUMMARY:Dagens menu🍽️
-UID:8b51bf72-47e0-43cd-9e1f-30b206056886@8b51.org
+UID:8dc8bd67-6423-4cc7-8fe1-96909e0b717d@8dc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Skinkeschnitzel med ceasar salat & nye danske kartofler\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260618T100000Z
+DTSTART:20260618T090000Z
+SUMMARY:Dagens menu🍽️
+UID:6e5cd142-2841-4430-a94e-3c680930e35b@6e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Moussaka på oksekød - Tomatsalat med feta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260617T100000Z
+DTSTART:20260617T090000Z
+SUMMARY:Dagens menu🍽️
+UID:9c16d3e6-3501-486c-8303-0cf681835eb1@9c16.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Spaghetti carbonara med bacon\, pastinak & parmesan\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260616T100000Z
 DTSTART:20260616T090000Z
 SUMMARY:Dagens menu🍽️
-UID:b05f119b-ce2b-44d6-b97a-86ddf5d9264b@b05f.org
+UID:7572d052-6528-47d8-8dcc-b9b14ba440dc@7572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260626T100000Z
+DTSTART:20260626T090000Z
+SUMMARY:Dagens menu🍽️
+UID:68f0eaaf-b200-4d43-8401-4fbdbe5a3320@68f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260622T100000Z
+DTSTART:20260622T090000Z
+SUMMARY:Dagens menu🍽️
+UID:105638e9-379d-4476-a777-324c8c5b977c@1056.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
