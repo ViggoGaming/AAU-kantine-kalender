@@ -2,53 +2,53 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Skinkeschnitzel med ceasar salat & nye danske kartofler\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260618T100000Z
-DTSTART:20260618T090000Z
+DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260625T100000Z
+DTSTART:20260625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:cb316a28-06e6-4c86-917f-1cbed26cd22e@cb31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260626T100000Z
-DTSTART:20260626T090000Z
-SUMMARY:Dagens menu🍽️
-UID:535b8daf-8342-46ed-97c1-0598ab539796@535b.org
+UID:5baa67a6-715c-452c-b5e6-b0ad62b71e25@5baa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Gråærter-blomkål-ristede anichalinser-gulerods humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260623T100000Z
 DTSTART:20260623T090000Z
 SUMMARY:Dagens menu🍽️
-UID:8c1e19cc-cbd5-4027-a348-7d849edb9871@8c1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Moussaka på oksekød - Tomatsalat med feta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260617T100000Z
-DTSTART:20260617T090000Z
-SUMMARY:Dagens menu🍽️
-UID:8d6b367d-ec91-4948-a23e-3d5f470f3791@8d6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260624T100000Z
-DTSTART:20260624T090000Z
-SUMMARY:Dagens menu🍽️
-UID:3d703497-b0cf-4b5a-a5e5-a549544c1809@3d70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260625T100000Z
-DTSTART:20260625T090000Z
-SUMMARY:Dagens menu🍽️
-UID:781939dd-f613-4ac8-929a-f4b7590ce122@7819.org
+UID:ff899027-ee54-40c3-8b27-9ddd63ba083c@ff89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260622T100000Z
 DTSTART:20260622T090000Z
 SUMMARY:Dagens menu🍽️
-UID:85435ec8-bc40-497a-8398-7d8a92ea0825@8543.org
+UID:58610963-81a5-467a-9e09-642e25e4db3b@5861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260626T100000Z
+DTSTART:20260626T090000Z
+SUMMARY:Dagens menu🍽️
+UID:2a50616a-2086-41fb-8aa5-af767556758e@2a50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Moussaka på oksekød - Tomatsalat med feta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260617T100000Z
+DTSTART:20260617T090000Z
+SUMMARY:Dagens menu🍽️
+UID:1664050e-4734-4aef-ae63-50c01855f1c6@1664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Skinkeschnitzel med ceasar salat & nye danske kartofler\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260618T100000Z
+DTSTART:20260618T090000Z
+SUMMARY:Dagens menu🍽️
+UID:74595988-3beb-49f1-a245-c7e7c9b8779f@7459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260624T100000Z
+DTSTART:20260624T090000Z
+SUMMARY:Dagens menu🍽️
+UID:c5e23559-fb2e-4d16-9010-3ed55ae170f8@c5e2.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
