@@ -2,46 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Gråærter-blomkål-ristede anichalinser-gulerods humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260623T100000Z
-DTSTART:20260623T090000Z
+DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260625T100000Z
+DTSTART:20260625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:35fec472-ff13-4c8a-85e8-e6993296d5f0@35fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260626T100000Z
-DTSTART:20260626T090000Z
-SUMMARY:Dagens menu🍽️
-UID:33ae9052-c875-44d2-857e-d5fc925d1e0c@33ae.org
+UID:3a9708b9-53f3-4f85-9788-b34ed01a6c86@3a97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260622T100000Z
 DTSTART:20260622T090000Z
 SUMMARY:Dagens menu🍽️
-UID:bd677bae-9240-450b-9aa7-ee512829c53b@bd67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260624T100000Z
-DTSTART:20260624T090000Z
-SUMMARY:Dagens menu🍽️
-UID:33354929-8905-4ed6-9b14-66649adcea53@3335.org
+UID:d048dc8d-54f3-4d58-836f-5a974db9bbf8@d048.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Skinkeschnitzel med ceasar salat & nye danske kartofler\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260618T100000Z
 DTSTART:20260618T090000Z
 SUMMARY:Dagens menu🍽️
-UID:ad2d6408-302f-4dfd-a50b-16564315b57a@ad2d.org
+UID:1a21cec9-9a2c-4d3d-abd3-a9db98a2d9ea@1a21.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260625T100000Z
-DTSTART:20260625T090000Z
+DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260624T100000Z
+DTSTART:20260624T090000Z
 SUMMARY:Dagens menu🍽️
-UID:088e1fb4-dd6c-4d39-94f6-644a3aa4ec8b@088e.org
+UID:d3a3a59b-ef94-47d6-9e4b-5f7c9c9026d3@d3a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Gråærter-blomkål-ristede anichalinser-gulerods humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260623T100000Z
+DTSTART:20260623T090000Z
+SUMMARY:Dagens menu🍽️
+UID:7254a576-ccc1-4289-985a-2601c4bd3528@7254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260626T100000Z
+DTSTART:20260626T090000Z
+SUMMARY:Dagens menu🍽️
+UID:55eb6adc-6ebc-4f3f-9054-0a43515c637b@55eb.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
