@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260626T100000Z
-DTSTART:20260626T090000Z
-SUMMARY:Dagens menu🍽️
-UID:d5ad30ce-5893-4e86-a1d8-657f8573ce5a@d5ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260622T100000Z
-DTSTART:20260622T090000Z
-SUMMARY:Dagens menu🍽️
-UID:bd07bc53-60e4-46a6-b418-9cc480c2f214@bd07.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260624T100000Z
 DTSTART:20260624T090000Z
 SUMMARY:Dagens menu🍽️
-UID:15861d5b-9b62-4e11-88ed-ed9fc7f13d2e@1586.org
+UID:b7e3eaad-e340-43f2-b105-bb3f71031c6b@b7e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260625T100000Z
 DTSTART:20260625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:5701ca61-1dec-4150-84a4-342f6abd0dda@5701.org
+UID:6facdcd1-f96a-47fa-97bd-f1ed15e824fa@6fac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Gråærter-blomkål-ristede anichalinser-gulerods humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260623T100000Z
 DTSTART:20260623T090000Z
 SUMMARY:Dagens menu🍽️
-UID:986b84e9-b778-4925-8665-c8d4813b412c@986b.org
+UID:2fbc7d44-6d60-4847-9999-a6fded0281cf@2fbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260622T100000Z
+DTSTART:20260622T090000Z
+SUMMARY:Dagens menu🍽️
+UID:1d895d74-0ee8-4271-8576-4516b157c042@1d89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260626T100000Z
+DTSTART:20260626T090000Z
+SUMMARY:Dagens menu🍽️
+UID:50579dc1-7a69-436b-b1a1-d4409624ea1f@5057.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
