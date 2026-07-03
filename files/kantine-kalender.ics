@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260625T100000Z
-DTSTART:20260625T090000Z
-SUMMARY:Dagens menu🍽️
-UID:0e94a6c0-ef44-4445-be9c-de0a5e124c32@0e94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260624T100000Z
-DTSTART:20260624T090000Z
-SUMMARY:Dagens menu🍽️
-UID:375a9253-bf5d-4809-a677-25a07f8a4300@375a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260626T100000Z
 DTSTART:20260626T090000Z
 SUMMARY:Dagens menu🍽️
-UID:938bf9b2-2dcc-45d4-9316-f7aa353eb177@938b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260622T100000Z
-DTSTART:20260622T090000Z
-SUMMARY:Dagens menu🍽️
-UID:dd0159ec-c249-4e43-ad36-8b1d70f0d3c3@dd01.org
+UID:616fc48f-8b88-488b-9899-aff0e1d4d907@616f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Gråærter-blomkål-ristede anichalinser-gulerods humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260623T100000Z
 DTSTART:20260623T090000Z
 SUMMARY:Dagens menu🍽️
-UID:9fafa1cb-3fc5-4731-bc01-16b4d2e2edf8@9faf.org
+UID:27aa916e-7201-4c46-af59-51a1816c207e@27aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260624T100000Z
+DTSTART:20260624T090000Z
+SUMMARY:Dagens menu🍽️
+UID:6d80d2d5-240a-49ea-ace4-69ce7b6ff84e@6d80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260622T100000Z
+DTSTART:20260622T090000Z
+SUMMARY:Dagens menu🍽️
+UID:6ca2f596-45d7-438b-b2ad-0e3456514fcf@6ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260625T100000Z
+DTSTART:20260625T090000Z
+SUMMARY:Dagens menu🍽️
+UID:9116f331-18b6-4352-a8ab-2a516cc57f17@9116.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
