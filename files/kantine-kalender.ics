@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260626T100000Z
-DTSTART:20260626T090000Z
+DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260622T100000Z
+DTSTART:20260622T090000Z
 SUMMARY:Dagens menu🍽️
-UID:8e5da12e-7955-40f0-9ba4-aa28fc322543@8e5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Gråærter-blomkål-ristede anichalinser-gulerods humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260623T100000Z
-DTSTART:20260623T090000Z
-SUMMARY:Dagens menu🍽️
-UID:15a3e032-4767-4bb4-95c6-7ad70f203ee3@15a3.org
+UID:e67dc909-417c-4c91-bcca-9ad29ed7ede9@e67d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Grillet svinekotelet-nye kartofler-sommergrønt\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260624T100000Z
 DTSTART:20260624T090000Z
 SUMMARY:Dagens menu🍽️
-UID:ab3b44f8-3cbf-4585-a877-de94cc896c99@ab3b.org
+UID:d6322369-9a94-47c7-9616-35876b9af35e@d632.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Butter chicken - ris- mangochutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260625T100000Z
 DTSTART:20260625T090000Z
 SUMMARY:Dagens menu🍽️
-UID:d943aceb-255f-4567-8e06-24a56791e996@d943.org
+UID:bf03d540-2492-436b-a623-9e437e075280@bf03.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Italienske Kylling kødboller -Orzo pasta\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260622T100000Z
-DTSTART:20260622T090000Z
+DESCRIPTION:Varme retter:\n - Gråærter-blomkål-ristede anichalinser-gulerods humus\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260623T100000Z
+DTSTART:20260623T090000Z
 SUMMARY:Dagens menu🍽️
-UID:839e2139-8526-48c2-9e8c-c5ef39c1a8c2@839e.org
+UID:ce3ad8c5-7445-410c-b424-0617a280880a@ce3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260626T100000Z
+DTSTART:20260626T090000Z
+SUMMARY:Dagens menu🍽️
+UID:28c1176e-ea3f-4d14-9a01-bbe9842b980e@28c1.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
