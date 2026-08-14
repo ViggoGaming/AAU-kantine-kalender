@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Grillet svinekotelet\, tomatrisotto\, stegte svampe\, rucolapesto\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260817T100000Z
-DTSTART:20260817T090000Z
+DESCRIPTION:Varme retter:\n - Butterchicken\, basmatiris & mango-gulerodschutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260820T100000Z
+DTSTART:20260820T090000Z
 SUMMARY:Dagens menu🍽️
-UID:a9042a59-af01-4cee-82f6-d4b71d2050de@a904.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Köfte med peberfrugt\, bulgur & yoghurt dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260819T100000Z
-DTSTART:20260819T090000Z
-SUMMARY:Dagens menu🍽️
-UID:7a08ab94-f092-4e4e-a53f-c79cbfb9387f@7a08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260821T100000Z
-DTSTART:20260821T090000Z
-SUMMARY:Dagens menu🍽️
-UID:286c8368-7d21-4c75-a830-df9d69c7e0ad@286c.org
+UID:23fc9b74-3daa-4414-9012-bd825e687869@23fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Krebinetter med persillesauce & timian kartofler.\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260818T100000Z
 DTSTART:20260818T090000Z
 SUMMARY:Dagens menu🍽️
-UID:dca3cd47-4915-4c4d-b0f4-d0dc0bba6295@dca3.org
+UID:823d6e0e-758b-42f6-a355-cf2672e5ae92@823d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Butterchicken\, basmatiris & mango-gulerodschutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260820T100000Z
-DTSTART:20260820T090000Z
+DESCRIPTION:Varme retter:\n - Grillet svinekotelet\, tomatrisotto\, stegte svampe\, rucolapesto\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260817T100000Z
+DTSTART:20260817T090000Z
 SUMMARY:Dagens menu🍽️
-UID:c81379ed-103f-4b86-af83-535d2144cecc@c813.org
+UID:ff544624-4ff1-4999-b3ea-c9dbe2f50543@ff54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Köfte med peberfrugt\, bulgur & yoghurt dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260819T100000Z
+DTSTART:20260819T090000Z
+SUMMARY:Dagens menu🍽️
+UID:cecfadb5-dc72-4990-90ed-ef436748c82b@cecf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260821T100000Z
+DTSTART:20260821T090000Z
+SUMMARY:Dagens menu🍽️
+UID:1c199c10-42a0-4f25-8a69-1e8a76fc95f9@1c19.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
