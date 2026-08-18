@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260821T100000Z
-DTSTART:20260821T090000Z
-SUMMARY:Dagens menu🍽️
-UID:6159bc6f-11d9-49f7-97ce-38a200315c52@6159.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Krebinetter med persillesauce & timian kartofler.\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260818T100000Z
-DTSTART:20260818T090000Z
-SUMMARY:Dagens menu🍽️
-UID:474b8bc2-ee81-4ed8-a451-e0e35be5175e@474b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Grillet svinekotelet\, tomatrisotto\, stegte svampe\, rucolapesto\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260817T100000Z
 DTSTART:20260817T090000Z
 SUMMARY:Dagens menu🍽️
-UID:efc11bcf-37b3-4902-9820-618e1a84c51c@efc1.org
+UID:8fe3d172-9b76-4cd5-9db2-81e25ce491e1@8fe3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Butterchicken\, basmatiris & mango-gulerodschutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260820T100000Z
 DTSTART:20260820T090000Z
 SUMMARY:Dagens menu🍽️
-UID:4077e829-4ddd-49f7-b71b-30885a5e34f2@4077.org
+UID:f223f8a3-2979-47a4-ad93-c90b90fa7853@f223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260821T100000Z
+DTSTART:20260821T090000Z
+SUMMARY:Dagens menu🍽️
+UID:2c363524-3f43-4a95-a94b-ae737257a70f@2c36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Krebinetter med persillesauce & timian kartofler.\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260818T100000Z
+DTSTART:20260818T090000Z
+SUMMARY:Dagens menu🍽️
+UID:bade6b15-a7c5-43a6-831e-485c0c33a7eb@bade.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Köfte med peberfrugt\, bulgur & yoghurt dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260819T100000Z
 DTSTART:20260819T090000Z
 SUMMARY:Dagens menu🍽️
-UID:919bab6f-98f4-4515-916f-cb01bc3f4d21@919b.org
+UID:e1be96a2-b479-4371-a6b7-4082fbf7d11a@e1be.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
