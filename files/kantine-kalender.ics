@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Köfte med peberfrugt\, bulgur & yoghurt dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260819T100000Z
-DTSTART:20260819T090000Z
-SUMMARY:Dagens menu🍽️
-UID:d0a32006-36cb-4b67-bd71-c68e122c3426@d0a3.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260821T100000Z
 DTSTART:20260821T090000Z
 SUMMARY:Dagens menu🍽️
-UID:f5256d79-9ae8-44c4-b460-4f450163057a@f525.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Krebinetter med persillesauce & timian kartofler.\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260818T100000Z
-DTSTART:20260818T090000Z
-SUMMARY:Dagens menu🍽️
-UID:9117622e-999b-4f2f-9f09-431019013d5c@9117.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Grillet svinekotelet\, tomatrisotto\, stegte svampe\, rucolapesto\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260817T100000Z
-DTSTART:20260817T090000Z
-SUMMARY:Dagens menu🍽️
-UID:b34248aa-0dd9-46c4-8a41-85efe49a50ce@b342.org
+UID:4ae84d4f-c944-4fe5-b756-3cac29bf8842@4ae8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Butterchicken\, basmatiris & mango-gulerodschutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260820T100000Z
 DTSTART:20260820T090000Z
 SUMMARY:Dagens menu🍽️
-UID:252ac10a-8a4c-419e-8dc8-6bfd0c910ef3@252a.org
+UID:ed89705a-cc5a-4fa3-b605-aeb7a86f2cd2@ed89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Grillet svinekotelet\, tomatrisotto\, stegte svampe\, rucolapesto\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260817T100000Z
+DTSTART:20260817T090000Z
+SUMMARY:Dagens menu🍽️
+UID:25ea11d8-4c2c-43ba-9f5b-cfb18a82ea7c@25ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Köfte med peberfrugt\, bulgur & yoghurt dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260819T100000Z
+DTSTART:20260819T090000Z
+SUMMARY:Dagens menu🍽️
+UID:df51183f-f757-48b4-afe3-eced218daf54@df51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Krebinetter med persillesauce & timian kartofler.\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260818T100000Z
+DTSTART:20260818T090000Z
+SUMMARY:Dagens menu🍽️
+UID:ec727d89-c24f-40bc-886f-86adee36daf8@ec72.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
