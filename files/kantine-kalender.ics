@@ -2,74 +2,74 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Pulled chicken med guacamole & pommes frites\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260827T100000Z
-DTSTART:20260827T090000Z
+DESCRIPTION:Varme retter:\n - Köfte med peberfrugt\, bulgur & yoghurt dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260819T100000Z
+DTSTART:20260819T090000Z
 SUMMARY:Dagens menu🍽️
-UID:db20b3d1-a98f-4515-8279-f7fd67875604@db20.org
+UID:c36e019b-32a9-493e-9c45-de7604122b92@c36e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Köfte med peberfrugt\, bulgur & tzatziki\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260824T100000Z
 DTSTART:20260824T090000Z
 SUMMARY:Dagens menu🍽️
-UID:26a703e3-2259-4c92-85bf-06e2cc970d96@26a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260821T100000Z
-DTSTART:20260821T090000Z
-SUMMARY:Dagens menu🍽️
-UID:6aca2104-d4ed-4cd3-b795-657e88f2a144@6aca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Canneloni med linser\, flødeost\, tomat & auberginer\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260825T100000Z
-DTSTART:20260825T090000Z
-SUMMARY:Dagens menu🍽️
-UID:06cd0f82-3ad4-4e18-856e-2e942654d0a7@06cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Koreansk sticky pork med pak choy\, nudler med tang\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260826T100000Z
-DTSTART:20260826T090000Z
-SUMMARY:Dagens menu🍽️
-UID:4a19784b-16f8-4c02-b9cf-f06cc3b75eca@4a19.org
+UID:d2e9979b-122d-4092-9787-d6fc40f5aba5@d2e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260828T100000Z
 DTSTART:20260828T090000Z
 SUMMARY:Dagens menu🍽️
-UID:4a8a845b-0162-4785-8aa6-338bb3a02388@4a8a.org
+UID:5bf8f0ec-8a90-4794-a1fa-a812fd2fc43d@5bf8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Krebinetter med persillesauce & timian kartofler.\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260818T100000Z
 DTSTART:20260818T090000Z
 SUMMARY:Dagens menu🍽️
-UID:f071cf85-8b1d-499d-bb3e-e8d490874b65@f071.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Köfte med peberfrugt\, bulgur & yoghurt dip\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260819T100000Z
-DTSTART:20260819T090000Z
-SUMMARY:Dagens menu🍽️
-UID:c0f07a7b-dde3-45fa-8f73-f41398bc08db@c0f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Varme retter:\n - Grillet svinekotelet\, tomatrisotto\, stegte svampe\, rucolapesto\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
-DTEND:20260817T100000Z
-DTSTART:20260817T090000Z
-SUMMARY:Dagens menu🍽️
-UID:f6a3af73-e20b-489b-a638-7bbf3e1dbc0f@f6a3.org
+UID:aa08c285-f0f0-4890-8668-0ba9fbf5cc19@aa08.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Varme retter:\n - Butterchicken\, basmatiris & mango-gulerodschutney\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
 DTEND:20260820T100000Z
 DTSTART:20260820T090000Z
 SUMMARY:Dagens menu🍽️
-UID:6a153642-9a71-4148-bcb7-a6c8d8ca2f18@6a15.org
+UID:cc20baf0-4eb9-4ae2-8791-f3e77b4c7b3f@cc20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Pulled chicken med guacamole & pommes frites\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260827T100000Z
+DTSTART:20260827T090000Z
+SUMMARY:Dagens menu🍽️
+UID:f022c3cc-57c3-4d9c-a46e-b55e7b5e600f@f022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Koreansk sticky pork med pak choy\, nudler med tang\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260826T100000Z
+DTSTART:20260826T090000Z
+SUMMARY:Dagens menu🍽️
+UID:1df84ac1-50c3-4bb9-919c-76a137830aa4@1df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Canneloni med linser\, flødeost\, tomat & auberginer\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260825T100000Z
+DTSTART:20260825T090000Z
+SUMMARY:Dagens menu🍽️
+UID:fd182215-cfab-4476-be58-d658e9710f56@fd18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Fredags lækkerier\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260821T100000Z
+DTSTART:20260821T090000Z
+SUMMARY:Dagens menu🍽️
+UID:6edd9a87-3297-49e7-871f-484848e9d250@6edd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Varme retter:\n - Grillet svinekotelet\, tomatrisotto\, stegte svampe\, rucolapesto\n\nUdviklet af Victor Buch\, (https://victorbuch.dk)
+DTEND:20260817T100000Z
+DTSTART:20260817T090000Z
+SUMMARY:Dagens menu🍽️
+UID:a1c52509-b93c-4f40-81d0-4291967adb8f@a1c5.org
 END:VEVENT
 X-WR-CALNAME:Jespers Torvekøkken kantine
 END:VCALENDAR
